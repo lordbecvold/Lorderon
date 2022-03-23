@@ -1,0 +1,1913 @@
+"game %d shut_down";
+"Hra se vypne za %d vteøin. ";
+
+"logout_canceled_1";
+"Odhlášení zrušeno. ";
+
+"You cannot equip the costume weapon. Wrong equipped weapon.";
+"Nemùeš si nasadit kostım na zbraò. Špatná nasazená zbraò. ";
+
+"shop_yang_cancel";
+"Nelze provést kvùli pøeteèení yangù. ";
+
+"%d you_must_reead_books";
+"Ještì musíš pøeèíst %d knih, aby se úroveò kouzla zvıšila. ";
+
+"%d level_color_use";
+"Barvu na vlasy mùeš vyuít a v úrovni %d. Pokud chceš døíve, pouij Bìlící prostøedek. ";
+
+"%d you %d have_chat_block";
+"Tvùj chat je zablokovanı na %d hodin, %d minut a %d sekund. ";
+
+"%d catch %d types";
+"%d Uloveno %d druhù. ";
+
+"%d king_bels_msg_1";
+"Bìhem %d sekund, mùeš pouít krále poehnání znovu. ";
+
+"%d cooling_as";
+"Ochladí se za %d sekund. ";
+
+"%dmin";
+"%d minut. ";
+
+"%d db_msg_num_1 (f_num %d)";
+"%d Zápis byl pøidán do placené doby (Èíslo faktury %d) ";
+
+"%dhour";
+"%d hodin. ";
+
+"%d get_exp_1";
+"%d zkušenost obdret.";
+
+"%d maintenance_msg";
+"Za %d vteøin probìhne údrba serveru prosíme poèkejte. ";
+
+"%s : %d player";
+"%s : %d hráè";
+
+"%s guild %s war_request";
+"Cech %s vyhlásil válku cechu %s. ";
+
+"%s guild_war %s msg_p";
+"%s vyhrál válku proti %s! ";
+
+"flage_now_is_free";
+"Vlajka byla osvobozena";
+
+"%s war %s guild_msg_r";
+"Válka mezi %s a %s skonèila nerozhodnì! ";
+
+"%s guild_war %s msg_k";
+"Válka mezi %s a %s byla zrušena! ";
+
+"%s guild_war_with %s started";
+"Válka mezi %s a %s zaèíná za pár minut. ";
+
+"%s guild_war_with %s started_starting";
+"Válka mezi %s a %s zaèala. ";
+
+"%s msg %s ou %d%% string";
+"%s od %s bylo %d%% zvıšeno. ";
+
+"%s msg %s guild_1";
+"%s s% cechu je zpìt do normálního. ";
+
+"%s exchange_success";
+"Obchod s %s byl úspìšnı. ";
+
+"%s send_party_request";
+"%s poslal ádost skupiny. ";
+
+"%s fr_deacept";
+"%s ádost o pøátelství byla zamítnuta. ";
+
+"friend_request";
+"Nemùe poslat pozvánku o pøátelství. ";
+
+"%s player_not_online_o";
+"%s není online.";
+
+"%s has_named";
+"%s byl nazván. ";
+
+"%s duel_winer";
+"%s vyhrál duel. ";
+
+"%s player_winer";
+"%s vyhrál. ";
+
+"you_must_msg_1";
+"Potøebuješ nakrmit svého konì. ";
+
+"%s teleported_you";
+"Budeš teleportován %s. ";
+
+"%s: guild_not_exist";
+"%s: Cech neexistuje. ";
+
+"%s[%d] attack_pos: %d %d";
+"%s[%d] Útoèná pozice: %d%d ";
+
+"%s duel_started_p";
+"Souboj s %s byl zahájen. ";
+
+"%s pvp_msg";
+"%s tì vyzval na souboj. ";
+
+"%s fired";
+"%s byl spálen. ";
+
+"%s eq_socket_is_empty";
+"Došla tavba v %s. ";
+
+"%sstart_war_types";
+"%s znaèky zaèátku války ";
+
+"%s pvp_msg_f";
+"Vyzval jsi %s na souboj. ";
+
+"%sfire_battle_1";
+"%s bojuje kolem snadného ohnì. ";
+
+"%s msg %s max_put";
+"%s Zvıšil se %s o %d%% ";
+
+"%s msg %s min_put";
+"%s Sníil se %s. ";
+
+"%s has %s changed";
+"%s byl %s nahrazuje. ";
+
+"%s monster_atack_castle";
+"Monstra útoèí na hrad %s. ";
+
+"%sdestroy_all";
+"%s znièil všechno. ";
+
+"%syou_must_destroy_all_tower";
+"%s musí znièit všechny vìe. ";
+
+"%scastle_protection";
+"%s úspìšnì chrání hrad. ";
+
+"%syou_loase_war";
+"%s prohráli válku. ";
+
+"guild_created";
+"Cech byl zaloen. ";
+
+"war_info_king";
+"[ENTER]Porazit krále zemì a pak si bude jmenován králem![ENTER] ";
+
+"[%s king] : %s ";
+"[%s král] : %s ";
+
+"[TEST_ONLY]idk_msg : %d";
+"[TEST_ONLY] Aktuální pokladny : %d ";
+
+"stone_cant_refine";
+"Kámen víc jak +3 nemùeš vylepšit. ";
+
+"guild %s dont_accept_war";
+"%s odmítl vyhlášení války. ";
+
+"guild_is_success_created";
+"Cech byl úspìšnì zaloen! ";
+
+"your_dont_have_golds";
+"Tvùj nemá dostatek Yangù. ";
+
+"you_cant_send_guild_msg";
+"Nemùeš psát zprávy do cechu. ";
+
+"this_player_have_guild_p";
+"Tato osoba ji cech má. ";
+
+"guild_not_exist_1";
+"Cech neexistuje. ";
+
+"this_guild_has_exist";
+"Tento cech ji existuje! ";
+
+"guild_msg_b";
+"Nemùete distribuovat cechovní body. ";
+
+"guild_name_has_wrong";
+"Jméno cechu není platné. ";
+
+"you_guild_has_reached_mag_lvl";
+"Tvùj cech dosáhl maximálního levelu. ";
+
+"you_depos_bzk";
+"Daroval jsi bzk. ";
+
+"bzk_cant_dep";
+"Nelze darovat bzk. ";
+
+"you_have_already_guild";
+"Nemùeš vytvoøit cech, kdy jsi v cechu. ";
+
+"guild_msg_a";
+"To se cechu nehodí. ";
+
+"m_has_kicked";
+"Èlen byl vyhozen. ";
+
+"you_cant_change_leader";
+"Nemùeš zmìnit vùdce cechu. ";
+
+"perms_cant_changed";
+"Práva cechu hráèù nelze zmìnit. ";
+
+"guild_sort_not_changet_by_leader";
+"Poøadí cechu nemùe bıt zmìnìno vùdcem. ";
+
+"guild_pos_cant_change";
+"Pozici cechu nelze zmìnit. ";
+
+"you_can_kick_m_in_war";
+"Bìhem války mùeš vyhodit èlena cechu. ";
+
+"guild_in_war_none";
+"Cech není zaregistrovanı pro válku. ";
+
+"you %d get_guild";
+"Potøebuješ %d cech ";
+
+"guild_war_stoped";
+"Válka mezi cechy byla ukonèena. ";
+
+"you_cant_kill_monster_in_war";
+"Bìhem cechovní války nemùeš zabíjet monstra. ";
+
+"you_cant_select_other_m_to_leader";
+"Nemùeš vybrat jiné èleny za vùdce cechu. ";
+
+"guild_dont_have_gold";
+"Cech nemá dostatek Yangù. ";
+
+"guild_lvl_plus";
+"Cechovní uroveò se zvıšila. ";
+
+"you_dont_have_guild_m";
+"Nemáš dostatek èlenù na zahájení cechovní války. ";
+
+"youd_dont_have_perm";
+"Nemáš dostateèná práva. ";
+
+"this_guild_not_have_m";
+"Tento cech má málo èlenù. ";
+
+"leader_not_online";
+"Vùdce cechu není online. ";
+
+"guild_have_points";
+"Cech má dostatek bodù, aby se zùèastnil války. ";
+
+"guild_war_5";
+"Cech má dostatek Yangù, aby se zùèastnil války. ";
+
+"this_player_non_in_guild";
+"Tento hráè není v cechu. ";
+
+"dragon_god_not_helped_guild";
+"Draèí bùh cechu nepomohl. ";
+
+"this_guild_name_used";
+"Toto cechovní jméno je ji pouíváno. ";
+
+"guild_in_war";
+"Tento cech je v souèasné dobì ve válce. ";
+
+"this_guild_in_war";
+"Tento cech je ve válce. ";
+
+"guild_war_8";
+"Tento cech ji má naplánovanou válku. ";
+
+"you_dont_have_golds";
+"Nemáš dostatek yangù. ";
+
+"you_cant_select_guild_leader";
+"Nesmíš vybrat vùdce cechu. ";
+
+"you_cant_use_specialchars";
+"Nemùeš pouívat speciální znaky.";
+
+"yang_guild_none";
+"Tvùj cech má dostatek yangù, aby mohl jít do války.";
+
+"you_dont_have_perm_to_admin";
+"Nemáš oprávnìní pro správu práv.";
+
+"guild_can_create_for %d days";
+"Cech mùeš vytvoøit a za %d dní.";
+
+"delete %s from_f_list";
+"Vymazal jsi %s ze seznamu tvıch pøátel.";
+
+"player %s si_your_new_f";
+"%s je tvùj novı pøítel.";
+
+"you_dont_gm_in_firend";
+"Nemùeš mít GM za pøítele.";
+
+"you_is_long_after_safebox";
+"Jsi pøíliš daleko k otevøení skladu.";
+
+"you_typed_wrong_password";
+"Zadal jsi nesprávné heslo.";
+
+"this_item_has_not_movable";
+"Tuhle vìc nelze pøesunout na toto místo.";
+
+"this_item_dont_move_to_safebox";
+"Tato poloka nejde dát do skladu.";
+
+"please_chack_you_data";
+"Zkontroluj si prosím své údaje.";
+
+"safebox_is_open";
+"Sklad je ji otevøen.";
+
+"you_must_wait_10_sec_safebox";
+"Musíš poèkat 10 sekund, aby jsi mohl otevøít sklad.";
+
+"quest_msg_old";
+"Pro odmìnu sis pøišel pøíliš pozdì.";
+
+"player %s dont_accept_grupe_inv";
+"Hráè %s odmítl pozvání do skupiny.";
+
+"party_leader %s you_is_member";
+"Jsi èlenem skupiny, vùdcem skupiny je %s.";
+
+"request_has_been_cancel";
+"Pozvánka byla zamítnuta.";
+
+"player %s connect_to_grupe";
+"%s se pøipojil ke skupinì.";
+
+"grupe_level_limit_reached";
+"Nemùeš pozvat hráèe s rozdílem tøiceti levelù.";
+
+"you_cant_invite_grupe";
+"Nemùeš vstoupit do skupiny.";
+
+"you_cant_invite_other_emipers";
+"Nemùeš pozvat, do skupiny, hráèe z jiné øíše.";
+
+"you_cant_kick_player_form_grupe";
+"Nemùeš odebrat hráèe ze skupiny.";
+
+"your_owen_grupe_has_full";
+"Vaše skupina je plná.";
+
+"you_cant_invite_players_form_tower";
+"Ve vìi nemùeš nikoho pozvat do skupiny.";
+
+"tower_msg_c";
+"Ve vìi, nemùe nikdo uniknout.";
+
+"you_cant_destroy_grupe";
+"Zde mùeš rozpustit skupinu.";
+
+"server_cant_work_party_invite";
+"Server nemùe zpracovat ádost skupiny.";
+
+"target_not_found";
+"Cíl nebylo moné najít.";
+
+"only_leader_grupe_can_use_this";
+"Pouze vùdce, mùe pouívat schopnosti skupiny.";
+
+"grupe_destroy";
+"Skupina byla rozpuštìna.";
+
+"you_cant_inv_level_30_grupe";
+"Nemùeš pozvat hráèe, kterı je o 30 levelù menší nebo vìtší.";
+
+"you_have_level_30_grupe";
+"Jsi o 30 levelù vyšší ne je tvùj spoluhráè.";
+
+"you_kicked_from_grupe";
+"Byl jsi vylouèen ze skupiny.";
+
+"you_dont_have_perm_to_invite";
+"Nemáš právo pozvat èleny.";
+
+"you_can_send_msg_party_m";
+"Mùeš napsat kadımu èlenu ze skupiny.";
+
+"grupe_has_full";
+"Skupina je plná.";
+
+"attack_castle_start_after_10_min";
+"Útok na hrad zaèíná za 10 minut.";
+
+"player_have_10_ces_answr_2";
+"Máte 10 vteøin na rozhodnutí. ";
+
+"player_have_10_sec_answ";
+"Máte 10 vteøin na rozhodnutí. ";
+
+"player_have_10_ces_answr_1";
+"Máte 10 vteøin na rozhodnutí. ";
+
+"player_have_10_ces_answr";
+"Máte 10 vteøin na rozhodnutí. ";
+
+"1-50_select_num";
+"Prosím, vyber èíslo 1-50.";
+
+"war_map_msg_4";
+"Pokud nepøítel nepøijde do jedné minuty, válka konèí.";
+
+"kill_demon_king_30_min";
+"Zabij krále démonù do 30 minut.";
+
+"30_min_left";
+"30 minut uteklo.";
+
+"b_andw_kick_from_ox";
+"Hráèi se špatnou odpovìdí vypadávají. ";
+
+"answ_is_yes";
+"Odpovìï je ANO (O).";
+
+"ox_player_dont_ready";
+"OX: Hráèi nejsou pøipraveni.";
+
+"ox_player_is_ready";
+"OX: Hráèi jsou pøipraveni.";
+
+"TEST : quest_msg : %d";
+"TEST: Souèasné pokladny: %d";
+
+"TEST : quest_msg_69";
+"TEST: Zlatá elva byla obnovena k císaøské pokladnì.";
+
+"TEST : quest_msg_r";
+"TEST: Zlatá elva nebyla obnovena k císaøské pokladnì.";
+
+"answ_is_no";
+"Odpovìï je NE (X).";
+
+"if_you_can_make_this_you_must_stop";
+"Pokud chceš vykonávat tuhle èinnost, musíš se zastavit.";
+
+"kingdom_info";
+"Informace o øíši.";
+
+"char_shop_msg_2";
+"Nemueš si otevøít stánek, kdy máš na sobì brnìní.";
+
+"you_data_si_wrong";
+"Tvé údaje jsou neplatné.";
+
+"you_dont_combine_items_1";
+"Nemùeš skombinovat dva svitky.";
+
+"this_stone_is_in_item";
+"Tento kámen je ji v této poloce.";
+
+"you_cant_use_this_item_5";
+"Nemùeš pouít tuhle poloku.";
+
+"you_can_have_one_guild";
+"Není moné mít dva cechy.";
+
+"your_lvl_is_low";
+"Tvoje úroveò je pøíliš nízká.";
+
+"you_dont_have_gold_refine";
+"Máš málo Yangù na zlepšení pøedmìtu.";
+
+"you_dont_have_refine_items";
+"Bohuel ti chybí potøebné vìci.";
+
+"cant_open_safebox";
+"Nelze otevøít sklad!";
+
+"you_must_wait_10_sec_after_trade";
+"Po obchodování musíš poèkat 10 sekund.";
+
+"%d you_cant_open_safebox_on_sec";
+"A to udìláš, mùeš otevøít sklad na %d sekund.";
+
+"you_can_use %d navigation";
+"Jakmile budeš mít hotovo, mùeš pouít navigaci na %d sekund.";
+
+"10_sec_protection_limit";
+"Ještì nemùeš odejít, ochrannı limit je 10 sekund.";
+
+"you_cant_warp_in_trade";
+"Pøi obchodování nemùeš jít nìkam jinam.";
+
+"you_must_wait_10_sec";
+"Musíš poèkat 10 vteøin.";
+
+"you_cant_go_on";
+"Nemùeš jít pryè.";
+
+"you_cant_open_safebox_in_trade";
+"Nemùeš otevøít sklad, pokud obchoduješ.";
+
+"build_filed";
+"Budovu se nepodaøilo postavit.";
+
+"you_cant_build_this_here";
+"Nemùeš postavit budovu na tomto místì.";
+
+"you_dont_have_yang_on_build";
+"Máš dostatek Yangù pro stavbu.";
+
+"you_can_build_here";
+"Zde si mùeš nìco postavit.";
+
+"gold_drop_minus_50_gold";
+"Drop Yangù byl sníen o 50%.";
+
+"shut_down_msg_1";
+"Byl odeslán poadavek na vypnutí hry...";
+
+"you_play_item_is %d min_in_game";
+"Tvoje doba hraní: %d Minut.";
+
+"you_dont_have_ring_1";
+"Nemùeš nosit snubní prsten, protoe nejsi zasnouben.";
+
+"wending_closed";
+"Manelství bylo ukonèeno.";
+
+"this_is_only_for_partners";
+"Toto je pouze pro manelské páry.";
+
+"exp %d%% rate_online";
+"Zisk zkušeností je momentálnì zvıšen na %d%%";
+
+"you_dont_have_exp_on_read";
+"Nemáš dostatek zkušeností, abys pøeèetl tuhle knihu!";
+
+"fish_lave_in_wather";
+"Ryba zmizela v hlubinách.";
+
+"pickaxe_points_plus (%d)";
+"Body byli zvıšeny na maximum. (%d).";
+
+"points_has_ben_max";
+"Body byli zvıšeny na maximum.";
+
+"you_cant_mine_without_pickaxe";
+"Bez krumpáèe nemùeš kopat.";
+
+"MINING_CANCEL";
+"Kopání bylo ukonèeno.";
+
+"Buy_pickaxe";
+"Koupit krumpáè.";
+
+"points_mine (%d/%d)";
+"Tvoje body se zvıšily. (%d/%d)";
+
+"skill_chart_text_14";
+"Nechci, aby ses dozvìdìl více.";
+
+"war_map_msg_1";
+"Mùeš pouít pozorovací reim.";
+
+"you_cant_attack_if_you_war_fun";
+"Nemùeš bojovat, kdy jsi divákem války.";
+
+"you_dont_have_gold_8";
+"Máš dostatek zlata.";
+
+"here : %u taxes : %u";
+"Pøíliš nízké danì. Momentální kapitál: %u Nedostatek kapitálu : %u";
+
+"kings_have";
+"Tyto tøi králové jsou:";
+
+"king_bels_msg";
+"Poškození se projevilo, díky královu poehnání.";
+
+"this_is_only_for_king";
+"Jen král to mùe pouít.";
+
+"this_is_only_for_king_1";
+"Jen král to mùe pouít.";
+
+"item_r %s idk_msg %% lua";
+"Poloka zmizí bìhem tøí minut.(10 %%)";
+
+"msg_ %s king_give";
+"10%% zvıšení útoku na mapì %s , dal král zemì.";
+
+"this_player_cant_be_king";
+"Tento hráè nemá dostatek kvalifikace, aby se stal králem.";
+
+"king_weapon_magic %s";
+"Poehnání krále se pouilo pro %s. Obnovil zranìní a magii.";
+
+"king_effec_active";
+"Král poehnání je aktivní.";
+
+"you_cant_use_this_items";
+"Nemùeš pouít tyhle poloky.";
+
+"demon_king_spawned";
+"Král démonù je zpìt!";
+
+"demon_king_has_killed";
+"Král démonù a jeho sluebníci byli poraeni!";
+
+"skill_chart_text_5";
+"Trénink bude kompletní!";
+
+"skill_chart_text_3";
+"Dobrı pocit.";
+
+"skill_chart_text_2";
+"Nastal èas.";
+
+"you_cant_train_this_ability";
+"Nemùeš ještì trénovat tuhle dovednost.";
+
+"cmd_not_found";
+"Pøíkaz nebyl nalezen.";
+
+"this_player_not_exist";
+"Tento hráè neexistuje.";
+
+"guil_name_not_exist";
+"Cech s tímto názvem neexistuje.";
+
+"you_status_has_refershed";
+"Tvùj status se obnoví.";
+
+"you_dont_have_level_on_use_this";
+"Nemáš dostateènı level, aby jsi to mohl pouít.";
+
+"you_dont_secure_place";
+"Nemùeš zabezpeèit oblast.";
+
+"you_dont_have_guild";
+"Nepatøíš k ádnému cechu.";
+
+"war_map_msg_3";
+"Ve válce nejsou ádní nepøátelé.";
+
+"cmd_msg_3";
+"locale_string_1";
+
+"you_cant_refine_pick_axe";
+"Mùeš jsi vylepšit krumpáè u Kopáèe. ";
+
+"quest_msg_u";
+"Tajemné svìtlo se objeví na stromì.";
+
+"low_level_on_use_poly";
+"Máš malı level na pouití promìny.";
+
+"king_information";
+"Informace o králi.";
+
+"you_wait_pls";
+"Teï se nemùeš pøemístit, poèkej chvíli.";
+
+"you_cant_use_worm";
+"Nemùeš zmìnit návnadu pøi lovu ryb.";
+
+"you_cant_catch_fish";
+"Nemùeš chytat ryby bez prutu!";
+
+"this_rod_is_not_refinable";
+"Nemùeš zlepšit prut!";
+
+"equip_worm";
+"Nasaï návnadu!";
+
+"new_worm_equiped";
+"Na háèku je nová návnada";
+
+"you_points_plus (%d/%d)";
+"Tvoje body se zvıšily! (%d/%d)";
+
+"event_fish_1";
+"Eventovı velkı candát";
+
+"event_fish_2";
+"Eventovı kapr";
+
+"you_have_low_hp";
+"Máš málo ivota.";
+
+"you_cant_add_next_point";
+"Nemùeš pøidat více bodù.";
+
+"you_have_next_points";
+"Máš nedostatek bodù.";
+
+"you_have_low_magic_points";
+"Máš málo magickıch bodù!";
+
+"you_is_long_after_player";
+"Jsi pøíliš daleko.";
+
+"war_e_info_1";
+"Sem nemùeš vstoupit! Do svaté zemì je vstup zakázán. [ENTER][ENTER] Do 10 vteøin budeš teleportován do mìsta.";
+
+"go_logout_on_5_h";
+"Odhlaš se na 5 hodin!";
+
+"skill_chart_text_4";
+"Toto nemùeš èíst!";
+
+"you_cant_open_private_shop_banword";
+"Nemùeš otevøít soukromı stánek, obsahuje nepøípustné jméno.";
+
+"you_cant_open_private_shop";
+"Nemùeš otevøít soukromı stánek.";
+
+"this_is_imposible_to_use";
+"Tohle není moné pouít.";
+
+"you_cant_trade_with_you_trading";
+"Nemùeš obchodovat, kdy zrovna obchoduješ.";
+
+"exchange_window_is_open";
+"Obchodní okno je otevøeno!";
+
+"empire_msg_8";
+"Nemùeš mluvit s hráèem z jiné øíše.";
+
+"multi_account_msg";
+"Pozor! Nìkdo se pøihlásil na tvùj úèet. Budeš odpojen ze serveru.";
+
+"you_ready_on_question";
+"Jste pøipraveni na další ïábelskou otázku?";
+
+"you_can_use_diamant";
+"Pokud chceš pøidat slot do poloky, tak pouij diamant.";
+
+"you_playtime_si_longer";
+"Hráješ u moc dlouho! Odhlaš se!";
+
+"you_playtime_is_0";
+"Tvoje celková doba hraní je 0. Mùeš mít 100% úèinek.";
+
+"you_play_item_is %d hour";
+"Tvoje celková doba hraní: %d hodin.";
+
+"duel_started_1";
+"Duel úspìšnì zaèal.";
+
+"duel_not_closed";
+"Duel není uzavøenı.";
+
+"duel_cancel_enemy_leave";
+"Duel skonèil, protoe soupeø zmizel.";
+
+"duel_time_expired";
+"Duel byl ukonèen z dùvodu èasového omezení.";
+
+"problem_msg";
+"Byl tam problém.";
+
+"you_cant_use_this_in_duel";
+"Nemùeš pouít tuhle poloku v duelu.";
+
+"belt_error_1";
+"Tohle nemùeš pouít kdy nemáš nasazen opasek. ";
+
+"belt_error_2";
+"Tohle nemùeš pouít kdy nemáš vylepšenı opasek. ";
+
+"duell_started";
+"Souboj zaèal!";
+
+"duel_cancel_1";
+"Duel byl ukonèen.";
+
+"duel_cancel_arena_problem_1";
+"Duel skonèil, protoe se vyskytl problém v arénì.";
+
+"enemy_not_found";
+"Zde nejsou ádní nepøátelé.";
+
+"duell_cancel_arena_problem";
+"Duel skonèil, protoe se vyskytl problém v arénì.";
+
+"this_cant_user_in_arena";
+"Tohle nemùeš pouít v arénì. ";
+
+"gold_drop_rate_1 %d%% rate_gold";
+"Pravdìpodobnost na drop Yangù byl zvıšen o %d%%.";
+
+"this_ability_complete_1";
+"Tuhle dovednost ovládáš velmi dobøe, není potøeba jí zdokonalit.";
+
+"your_cant_add_bonus";
+"Nemùeš pøidat další bonus.";
+
+"cmd_not_exist";
+"Pøíkaz neexistuje.";
+
+"this_is_cant_use_in_jail";
+"%s%s nelze pouít ve vìzení.";
+
+"you_get %d gold";
+"Obdrel jsi %d Yangù. ";
+
+"you_dont_have_yang_of_full_inventory";
+"Nemáš dostatek Yangù nebo máš plnı inventáø.";
+
+"you_have_this_hairstyle";
+"U máš tento úèes.";
+
+"you_dont_change_value";
+"Nemùeš zmìnit hodnotu.";
+
+"you_cant_change_equip";
+"Nemùeš zmìnit vybavení.";
+
+"trainining_failed";
+"Dokonèil jsi vıcvik.";
+
+"polymorph_failed";
+"Promìna se nezdaøila.";
+
+"this_is_fun";
+"Je to zábava! ";
+
+"item_despawn_after_10_sec";
+"Pøedmìt zmizí bìhem deseti sekund.";
+
+"capacity_is_upgraded";
+"Kapacita se zvıšila.";
+
+"you_must_be_level_30";
+"Potøebujete na to minimálnì 30 level.";
+
+"you_must_be_level_50";
+"Potøebujete na to minimálnì 50 level.";
+
+"move_msg_1";
+"Byl odeslán poadavek na pøesunutí do pøihlašovacího okna...";
+
+"you_way_lowed";
+"Tvùj špatnı pøístup byl sníen.";
+
+"this_skill_cant_learn";
+"tuhle schopnost se nemùeš uèit.";
+
+"horse_msg_3";
+"Máš svého konì úspìšnì nakrmeného.";
+
+"you_horse_is_hungry";
+"Tvùj kùò by potøeboval nakrmit.";
+
+"horse_msg_1";
+"Nemùeš poslat svého konì pryè, zatímco jedeš.";
+
+"horse_unsummon_1";
+"Odvolal si svého konì.";
+
+"you_first_summon_horse";
+"Nejdøív si pøivolej konì.";
+
+"you_cant_use_naf_emotion_in_ride";
+"Nemùeš pouít ádné emoce bìhem jízdy!";
+
+"emotion_cant_use_si_ride";
+"Emoce nelze pouít pøi jízdì.";
+
+"you_cant_use_this_on_horse";
+"Nemùeš si nasadit svatební šaty, kdy jedeš na koni.";
+
+"horse_msg_2";
+"Nemùeš krmit svého konì, zatímco sedíte na koni.";
+
+"you_dont_have_horse";
+"Nemáš ádného konì.";
+
+"ox_msg_cent";
+"Pokud si myslíte, e je odpovìï ANO jdìte na (O), pokud je odpovìï NE jdìte na (X). ";
+
+"slot_added_by_diamant";
+"Pouij diamant pro pøidání slout.";
+
+"cmd_msg_4";
+"Zvedni se!";
+
+"you_added_stone";
+"Úspìšnì jsi vloil kámen.";
+
+"stone_add_filed";
+"Pøidání kamenu se nepodaøilo.";
+
+"you_type_all_cmd";
+"Zadej pøíkaz v plné délce!";
+
+"you_cant_use_fire";
+"Není povoleno zde rozdìlávat oheò!";
+
+"1_min_before_spawn_monster";
+"Zbıvá 1 minuta, ne pøíšery zaútoèí.";
+
+"5_min_before_spawn_monster";
+"Zbıvá 5 minut, ne pøíšery zaútoèí.";
+
+"monster_leader_spawned";
+"Vùdce pøíšer je venku!";
+
+"monster_come_here";
+"Pøíšery se vrátily zpìt!";
+
+"monster_leave_war";
+"Nìkteré pøíšery ustoupí.";
+
+"monster_start_atacking_in_castle";
+"Pøíšery zaèaly útoèit na hrad!";
+
+"skill_chart_text_1";
+"Zahøívám se a uklidòuji své tìlo.";
+
+"reading_sucess";
+"Ètení bylo úspìšné. ";
+
+"refine_weapon_free_lvl_20";
+"Vylepšení zbraní je zdarma do levelu 20!";
+
+"question_say";
+"Otázka zní:";
+
+"you_dont_place_fire_in_wather";
+"Nemùeš rozdìlat oheò ve vodì.";
+
+"error_in_crafting_elixir";
+"Chyba pøi vırobì lektvaru.";
+
+"pottion_is_not_have_limit";
+"Neexistuje ádnı limit pro lektvar!";
+
+"you_dont_have_material_for_elixir";
+"Není dostatek indegrience pro vırobu lektvaru.";
+
+"pottion_use_sec";
+"Mùeš pouít a %d lektvarù.";
+
+"skill_chart_text_10";
+"Zkus to prosím pozdìji.";
+
+"worm_equiped_in_fishing_rod.";
+"Návnada je pøipravena na háèku.";
+
+"you_no_mobility";
+"Tvoje mobilita je pøíliš slabá na vybavení poloky.";
+
+"you_can_open_fish";
+"Jestli chceš, mùeš otevøít rybu.";
+
+"fishing_worm_is_avilible";
+"K dispozici je èerv na ryby!";
+
+"this_item_cant_drop_on_floor";
+"Vzácné pøedmìty nemùeš vyhazovat po zemi! ";
+
+"you_cant_change";
+"Nemùeš nic mìnit!";
+
+"this_item_bonus_empty";
+"V této vìci nemùeš zmìnit bonus, protoe tam ádnı není.";
+
+"you_can_reda_poly_book";
+"Mùeš si pøeèíst knihu promìny.";
+
+"this_item_is_full";
+"ádné volné sloty!";
+
+"you_dont_have_empty_botles";
+"Nestaèí prázdné láhve!";
+
+"stone_dont_delete";
+"Nelze kameny odstranit.";
+
+"refine_items_tower_msg";
+"Klidnì mùeš aktualizovat všechny ostatní pøedmìty!";
+
+"this_is_under_limit";
+"To je pøes limit.";
+
+"this_is_cant_use";
+"Nelze pouít!";
+
+"you_cant_use_this_in_this_place";
+"Nemùeš zde pouívat svitky.";
+
+"empier %s destroy";
+"%s Øíše má nejmíò bodù, proto bude odstranìna.";
+
+"war_is_gone_player_teleported";
+"Válka je u konce. Soutìící budou odstranìny.";
+
+"war_have_problem_cancel";
+"Válka má problémy a proto je ukonèena.";
+
+"player_have_full_inventory_or_0_gold";
+"Hráè nemá dostatek Yangù nebo nemá místo v inventáøi.";
+
+"you_inventory_is_full";
+"Nemáš místo v inventáøi. ";
+
+"player_is_on_channel (%d)";
+"Hráè je na channel %d. Ty jsi na channel %d.";
+
+"player_has_blocked_exchange";
+"Hráè odmítá obchodování.";
+
+"this_player_is_with_other_player";
+"Tento hráè je ji s jinım hráèem.";
+
+"this_player_is_trading";
+"Tento hráè v souèasné dobì obchoduje s nìkım jinım.";
+
+"grupe_msg_1_a";
+"Hráè je ji v jiné skupinì.";
+
+"player_not_online";
+"Hráè není online.";
+
+"player_is_not_online.";
+"Hráè není online.";
+
+"you_cant_teleport_on_character";
+"K postavì se nemùeš teleportovat.";
+
+"you_cant_pick_this_item";
+"Nemùeš sebrat tento pøedmìt, protoe jsi ho neukoøistil. ";
+
+"duel_started";
+"Souboj zaèal.";
+
+"text_msg_char_item";
+"Je toho víc... ";
+
+"you_get_new_item";
+"Obdrel jsi novı pøedmìt... ";
+
+"green_smoke_txt";
+"Zelenı kouø vycházející z krabice a jedù tvoje tìlo vstøebává.";
+
+"smoke_text_regen";
+"Kouø stoupá tiše po vybalení z krabice a budete dıchat pomaleji.";
+
+"warn_you_1";
+"Vedle tebe se nìco objevilo. Dávej si pozor!";
+
+"you_get_exp";
+"Budeš mít zkušenosti.";
+
+"shop_mgr_msg_3";
+"Jsi pøíliš daleko, aby jste si mohli nìco koupit!";
+
+"skill_chart_text_15";
+"Nepodaøilo se ti pøeèíst knihu. No smùla,zkus to zítra!";
+
+"you_get_better";
+"Cítíš se líp!";
+
+"your_aligment_not_uppable";
+"Nemùeš zvıšit svou hodnost.";
+
+"map_info %d - %d %d %d";
+"Mapa informace: %d - %d %d %d";
+
+"other_sex_can_use";
+"Tato poloka mùe bıt pouita pouza na opaèné pohlaví.";
+
+"item_only_for_man";
+"Tato poloka je pouze pro mue.";
+
+"user_not_found";
+"Uivatel nebyl nalezen.";
+
+"you_is_devil";
+"Jsi ïábel ve Svaté zemi! (EPiC FAiL)";
+
+"town_tp_msg";
+"Mùešse dostat a na tuhle zemi! Zpìt do mìsta!";
+
+"taxes %d have";
+"Danì jsou %d %.";
+
+"you_cant_have_gold_limit";
+"Nemùeš mít více ne 500.000.000.000 Yangù.";
+
+"you_inventory_is_full_dont_pick";
+"Tvùj inventáø je plnı.";
+
+"you_not_added_this";
+"Pøidání se bohuel nepodaøilo!";
+
+"you_added_this";
+"Úspìšnì jsi to pøidal.";
+
+"wrong_mob_vnum";
+"Špatnì zadané vnum moba.";
+
+"you_add_bonus_item";
+"Pøidání bonusu bylo úspìšné.";
+
+"add_bonus_filed";
+"Pøidání bonusu selhalo.";
+
+"you_change_bonus";
+"Úspìšnì jsi zmìnil bonus.";
+
+"this_not_bonusable_item";
+"Tato poloka neodpovídá bonusu.";
+
+"training_filed";
+"Trénink se nezdaøil!";
+
+"you_cant_read_this_book";
+"Tuto knihu nemùeš èíst. ";
+
+"you_dont_have_much_exp";
+"Nemáš dostatek zkušeností ";
+
+"points_restarted";
+"Reset bodù byl úspìšnı.";
+
+"points_dont_reset";
+"Body nelze resetovat!";
+
+"horse_is_not_summoned";
+"Nepodaøilo se ti pøivolat koòe.";
+
+"horse_is_summoned";
+"Kùò byl úspìšnì pøivolán.";
+
+"cmd_msg_2";
+"Nemùeš nasednout na konì, kdy jsi mrtvı.";
+
+"skill_chart_text_13";
+"Tuto poloku nemùeš rozkliknout. Nemá ádnı obsah. ";
+
+"you_can_use_agin_1";
+"Mùeš je pouít znovu za %d sekund, pomocí svitku.";
+
+"drop_chance %d%% plus";
+"Šance na spadnutí pøedmìtù je zvıšena %d%% ";
+
+"player: %s get_item";
+"Hráè %s obdrel %s.";
+
+"item_is_in_your_inventory: %s";
+"%s je teï ve tvém inventáøi... ";
+
+"player: %s pick_item %s";
+"%s ti vzal %s do tvého inventáøe.";
+
+"this_item_is_not_tradeble_exchange";
+"S tímto pøedmìtem nemùeš obchodovat.";
+
+"your_level_is_low_2";
+"Tvá úroveò pro nasazení/pouití tohoto pøedmìtu je pøíliš nízká! ";
+
+"you_must_pickup_1 (%d w)";
+"Teï hned ještì nemùeš vstát... (%d sekund poèkej) ";
+
+"every_8hour";
+"Tento pøedmìt mùeš pouít kadıch 8 hodin. ";
+
+"you_ready_train_horse_skill";
+"Jsi schopen zlepšit své jezdecké dovednosti.";
+
+"you_cant_equip_this_1";
+"Nemùeš si obléct šaty!";
+
+"yang_limit_msg_shop";
+"Mùeš si otevøít obchod, pokud tam nemáš vìci za 1.000.000.000.000.000 Yangù.";
+
+"¾ç¼Õ°Ë ¹æ¾î %d%%";
+"Obrana proti obouruènım zbraním %d%%";
+
+"i_can_read_skill";
+"Chápu, mùu si zlepšit schopnost.";
+
+"you_fishing_rod_must_be_refined_go_fisherman";
+"Tvùj rybáøskı prut mùe bıt nyní zlepšen. Jdi k rybáøi!";
+
+"you_get_point";
+"Obdríš bod.";
+
+"skill_chart_text_7";
+"Ne na dlouho!";
+
+"this_is_only_for_womens";
+"Tato poloka je pouze pro eny.";
+
+"this_ability_complete";
+"Tuto dovednost u umíš. ";
+
+"broken_key";
+"To není klíèem k otevøení.";
+
+"training_is_only_read";
+"Tvrdı trénink je jedinı zpùsob, jak se nauèit tuhle dovednost.";
+
+"you_can_use_emotions_only_witch_mask";
+"Mùeš pouívat emoce pouze, kdy máš masku na sobì.";
+
+"you_cant_get_better_refine";
+"Nemùeš si objednat lepší zlepšení.";
+
+"you_muset_be_lvl %d on_use_chat";
+"Level %d musí bıt dosaen, ne budeš moct psát do chatu.";
+
+"teleport_on_last_town";
+"Teleport na poslední místo.";
+
+"used_cake";
+"Koláè pouit.";
+
+"you_cant_sell_item_in_private_shop";
+"Nemùeš prodávat tuhle poloku v soukromém obchodì!";
+
+"you_dont_have_role_1";
+"Nemùeš pohnout dopøedu s rolí.";
+
+"role_refine_availible";
+"Toto zlepšení role je pro vás k dispozici.";
+
+"compas_err_pos";
+"Kompas není moné pouít z této pozice.";
+
+"this_stone_cant_be_in_armor";
+"Nelze vloit kámen do brnìní.";
+
+"you_cant_add_new_stone";
+"Mùeš pøidat další kámen.";
+
+"ability_is_not_max_level";
+"Dovednost není dostateènì vysoká, musíš trénovat.";
+
+"you_dont_user_this_skill";
+"Nemùeš pouívat tuhle schopnost.";
+
+"you_dont_use_this_item_0";
+"Nemùeš pouít tuhle poloku.";
+
+"this_is_cant_use_item";
+"Toto nemùe bıt pouito.";
+
+"you_dont_user_this_place";
+"Tato poloka mùe bıt pouita pouze v daném místì.";
+
+"this_time_is_not_refinable";
+"Tuhle poloku nemùeš vylepšit.";
+
+"this_time_is_not_refinable_1";
+"Tato poloka nemùe bıt vylepšena.";
+
+"this_is_not_be_equiped";
+"Tato poloka nemùe bıt vybavena.";
+
+"you_use_exor";
+"Pouil jsi pergamen exortismu.";
+
+"you_cant_add_next_slot";
+"Nemùeš pøidávat další slot.";
+
+"this_is_not_stone_add";
+"Nejedná se o úlomek s rudou.";
+
+"this_book_is_not_trainable";
+"Nemùeš trénovat s touto knihou.";
+
+"you_ability_is_low";
+"Tvoje dovednost je pøíliš nízká.";
+
+"skill_msg_not_aply";
+"Schopnost nebyla aplikovana";
+
+"this_contorl_ability_nice";
+"Tuhle dovednost ovládáš velmi dobøe.";
+
+"you_have_low_lvl";
+"Tvùj level je pøíliš malı!";
+
+"you_or_second_char_must_use_emotion";
+"Ty, nebo druhá osoba musí povolit emoce. ";
+
+"you_in_the_place";
+"Jsi ji na tomto místì.";
+
+"your_ready_on_teleport";
+"Jsi pøipraven na teleport, take mùeš pouít navigaèní mìsta.";
+
+"skill_chart_text_16";
+"Zkus to znovu zítra!";
+
+"you_change_worm";
+"Zmìnil jsi svou návnadu.";
+
+"you_cant_polymorph";
+"Nemùeš se promìnit kdy jis na koni. ";
+
+"you_is_in_poly";
+"Jsi ji promìnìn.";
+
+"player_invited_g";
+"Jsi ji pozván do cechu.";
+
+"this_is_not_readeble";
+"Toto nemùeš pøeèíst.";
+
+"war_si_gone";
+"Válka je u konce.";
+
+"open_crafting_window";
+"Otevøi okno vıroby.";
+
+"you_is_in_grupe";
+"Nemùeš pøijmout pozvání, protoe u jsi ve skupinì.";
+
+"you_cant_use_item";
+"Tuto vìc teï nemùeš pouít. ";
+
+"fish_size_is %.2fcm";
+"Délka ulovenıch ryb je %.2fcm.";
+
+"qust_complete";
+"Úkol byl úspìšnì dokonèen.";
+
+"qust_complete_s";
+"Úkol byl úspìšnì dokonèen.";
+
+"this_is_use_only_other_sex";
+"Toto mùe bıt pouíváno pouze opaèném pohlavím.";
+
+"skill_chart_text_11";
+"Teï u chápu.";
+
+"skill_chart_text_6";
+"Uèení u je skoro u konce.";
+
+"player_not_found_a";
+"Nelze najít hráèe.";
+
+"this_is_only_in_kingdom";
+"Mùeš pouít tuhle dovednost ve svém království.";
+
+"town_warp_all";
+"Všichni hráèi budou teleportováni do prvního mìsta. ";
+
+"war_map_msg_2";
+"Pøi vytváøení tvé postavy se objeví sledování.";
+
+"you_cant_call_you";
+"Nemùeš volat sám sebe.";
+
+"you_dont_have_items";
+"Nemáš dostatek prostøedkù.";
+
+"this_is_fail_items";
+"To je chybná poloka.";
+
+"you_teleporting_to_town";
+"Budeš teleportován do mìsta.";
+
+"this_is_sucess";
+"Bylo to úspìšné.";
+
+"this_is_filed";
+"Bohuel se to nezdaøilo.";
+
+"dont_have (%s) material";
+"Není dostatek indegrience(%s).";
+
+"this_name_canot_use";
+"Toto jméno cechu nelze pouít.";
+
+"guild_war_cant_started";
+"Cechovní válka nemohla bıt spuštìna.";
+
+"final_answ";
+"Vısledek:";
+
+"success_nasw";
+"Správnì!";
+
+"you_dont_have_materials_to_crafting";
+"Není dostatek surovin.";
+
+"crafting_cant_open";
+"Vıroba okno neotevøe.";
+
+"muschel_is_empty";
+"Mušle zmizela v hlubinách.";
+
+"stone_shard_get";
+"V mušli byl skrytı kousek kamene.";
+
+"perla_get";
+"V mušli byla skrytá bílá perla.";
+
+"perla_get_blue";
+"V mušli byla skrytá modrá perla.";
+
+"perla_get_blue_red";
+"V mušli byla skrytá èervená perla.";
+
+"login_and_buy_item";
+"Pøihlásit se a koupit poloku.";
+
+"this_build_not_exist";
+"Tato budova neexistuje.";
+
+"skill_chart_text_12";
+"Musím se soustøedit.";
+
+"skill_chart_text_8";
+"Jsem osvícenı, našel jsem to.";
+
+"you_leave_cruse";
+"Unikl jsi prokletí.";
+
+"you_cant_respawn_horse";
+"Nemùeš oivit konì bez bylina z dungeonu.";
+
+"ghost_olt_colect";
+"Zlı duch shromaïuje oltáøe.";
+
+"you_get_award_30_min_1";
+"%s mùe získat odmìnu tím, e znièí poární signalizace za 30 minut.";
+
+"you_have_small_brain";
+"Máš pøíliš malı mozek na vybavení.";
+
+"you_cant_sell_equiped_items";
+"Nemùeš prodávat poloky, které máš na sobì.";
+
+"you_have_open_shop";
+"Máš otevøenı stánek.";
+
+"you_cant_sell_equiped_item";
+"Nemùeš prodávat nasazené pøedmìty";
+
+"you_cant_sell_locked_item";
+"Nemùeš prodávat zamèené pøedmìty";
+
+"%d you_can_go_back_for";
+"Mùeš zpìt za %d sekund.";
+
+"you_can_use_this";
+"Mùeš to pouít.";
+
+"you_change_character";
+"Zmìnil jsi postavu.";
+
+"minus_success";
+"Sníení bylo úspìšné.";
+
+"mine_failed";
+"Nezdaøilo se to.";
+
+"you_get_chat_block";
+"Obdrel jsi blokaci chatu.";
+
+"chat_block_remove";
+"Blokace chatu byla zrušena.";
+
+"skill_chart_text_9";
+"Nemùeš to teï èíst.";
+
+"this_is_not_have_borken_stone";
+"Tato poloka nemá ádné odštìpky.";
+
+"you_can_add_points_to_vit";
+"Musíš pøidat body také do VIT.";
+
+"question_count: %d";
+"Poèet kvízù: %d ";
+
+"refine_msg_1";
+"Poehnání vzácného kovu mùe bıt efektivní.";
+
+"logout_canceled_1";
+"Odhlášení bylo zrušeno.";
+
+"change_chara_msg_1";
+"Byl odeslán poadavek na zmìnu postavy...";
+
+"msg_ll %d 5_a";
+"Odpoèinou si mùeš na %d minut.";
+
+"game_exiting_you_wait";
+"Hra se ukonèuje. Prosím, èekej!";
+
+"you_must_learn";
+"Musím se to nauèit.";
+
+"you_client_is_not_corect";
+"Tvùj klient není v poøádku. Aktualizuj si ho.";
+
+"you_cant_change_guild";
+"Nemùete zmìnit øíši";
+
+"cmd_msg_1";
+"Nemùeš jezdit tak dlouho, jak chceš.";
+
+"test_servr_expired";
+"Testovacímu serveru vypršela lhùta.";
+
+"you_dont_have_grupe";
+"Nejsi ve skupinì.";
+
+"you_grupe_msg_45";
+"Vaše skupina spolupracuje, a proto získáte zkušenostní bonus.";
+
+"grupe_leader_is_offline";
+"Nemùeš se pøipojit ke skupinì, protoe vùdce skupiny není online.";
+
+"sell %d %% taxed_by_server";
+"Prodej byl zdanìn %d%%.";
+
+"this_ability_is_on_max_level";
+"Tato dovednost je nejvyšší ve fázi.";
+
+"server_error_1";
+"Chyba serveru. ";
+
+"msg %d asd_1 (a_1 %d)";
+"Pøidání hráèe do channel %d. (Souèasnı Channel - %d)";
+
+"%s have %d";
+"%s má %d.";
+
+"ox_member_count : %d";
+"Poèet úèastníkù : %d ";
+
+"points:%d points_1:%d points_2:%d";
+"Aktuální poèet bodù | Èervená øíše: %d | lutá øíše: %d | Modrá øíše: %d |";
+
+"you_cant_use_here";
+"Zde to nemùeš pouít!";
+
+"you_dont_change_hair";
+"Nemùeš zmìnit svùj úèes.";
+
+"you_concenter_on_study";
+"Prosím, soustøeï se na své studium.";
+
+"you_cant_fishing_here";
+"Nemùeš chytat ryby zde!";
+
+"you_cant_add_new_bonus";
+"Nemùeš pøidat další bonus.";
+
+"player_not_accept_your_request";
+"Hráè odmítl tvoji ádost o pøátelství.";
+
+"Usage: warp <character name> | <x meter> <y meter>[z]";
+"Nìkdo tì teleportoval.";
+
+"gold_drop %d%% rate";
+"Šance na spadnutí Yangù byla zvıšena o %d%%.";
+
+"you_cant_added_new_special_bonus";
+"Do této vìci ji nemùeš pøidat další speciální bonus.";
+
+"%s item_msg_1";
+"Drahokamy zmizí za %s sekund.";
+
+"you_is_skill_master";
+"Nyní jsi velkı mistr!";
+
+"you_cant_un_horse_clrl_g";
+"Ze zvíøete mùeš sesednout pouze za pomocí CTRL - G. ";
+
+"crafting_80_filed";
+"Vıroba se nezdaøila. Šance na vırobu je 80 procent. ";
+
+"refine_overflow";
+"Nìco se pokazilo. Kontakuj adminy. ";
+
+"refine_cannot_find_item";
+"Problém s nalezením %s v inventáøi.";
+
+"refine_already_is_increased";
+"Ji jsi nìjakı lektvar pouil.";
+
+"you_added_bonus";
+"Úspìšnì jsi pøidal bonus.";
+
+"SHOP_SUCCESS_CLOSE";
+"Soukromı stánek byl uzavøen. Pøedmìty a Yangy získané ze stánku byly pøidány do odmìn v levé èásti hry. ";
+
+"SHOP_MAX_ERR";
+"Nemùeš vytvoøit další stánek. ";
+
+"INVENTORY_FULL_ERROR";
+"Nemáš dostatek místa ve svém inventáøi.";
+
+"UNKNOW_ERROR";
+"Neznámá chyba nalezena - napište na podporu.";
+
+"SHOP_YANG_ADD";
+"Úspìšnì jsi získal Yangy ze stánku.";
+
+"SHOP_CASH_ADD";
+"Úspìšnì jsi získal Yangy ze stánku.";
+
+"SHOP_TIMEOUT";
+"Prosím èekejte %d sekund pøed otevøením stánku.";
+
+"GIFT_NOT_EXISTS";
+"Odmìna neexistuje.";
+
+"GIFT_ADD_SUCCESS";
+"Úspìšnì jsi získal odmìnu ze stánku.";
+
+"GIFT_ADD_ALL_SUCCESS";
+"Úspìšnì jsi získal odmìny ze stánku.";
+
+"SHOP_REASON";
+"Stánek byl uzavøen.";
+
+"SHOP_PRIV_ERROR";
+"Nemáš dostatek práv pro otevøení soukromého stánku.";
+
+"SHOP_OX_ERROR";
+"Na soutìi OX nemùeš otevøít soukromı stánek.";
+
+"SHOP_MAP_MAX";
+"Na této mapì nemùeš otevøít soukromı stánek.";
+
+"SHOP_CANNOT_OPEN_HERE";
+"Na tomto místì nemùeš otevøít soukromı stánek.";
+
+"SHOP_NEED_MONEY";
+"Potøebuješ %lld Yangù pro otevøení soukromého stánku.";
+
+"SHOP_TEMP_OFF ";
+"Offline shop systém je doèasnì vypnut.";
+
+"SHOP_EDIT_SUCCESS";
+"Pøedmìt ve stánku byl úspìšnì aktualizován.";
+
+"SHOP_ITEM_REASON";
+"Odstranìn pøedmìt.";
+
+"localization_blocked_maps";
+"Ukládání pozic je v této mapì zakázáno.";
+
+"localization_blocked_ch99_and_dungeon";
+"Ukládání pozic je na tomto kanálu zakázáno.";
+
+"localization_blocked_observerMode";
+"Nemùeš ukládat pozice v diváckém reimu.";
+
+"localization_blocked_lastTimeOpenShopOrOther";
+"Poèkej 10 vteøin pøed uloením nové pozice.";
+
+"localization_not_exist_saved_positions";
+"Pozice [x = %d] | Pozice [y = %d], nemùeš se teleportovat, protoe uloená pozice neexistuje.";
+
+"cz_countdown_leave";
+"Zbıvá %d sekund do opuštìní bitevní zóny.";
+
+"cz_countdown_join";
+"Zbıvá %d sekund do pøipojení se do bitevní zóny.";
+
+"cz_cancel_withdrawal";
+"Tvùj útìk z bitevní zóny byl zrušen, protoe jsi byl zabit.";
+
+"cz_last_time_error";
+"Musíš poèkat [%d dní] [%d hodin] [%d minut] [%d sekund] pro tuto akci.";
+
+"cz_offline";
+"Ještì nebyl povolen vstup do bitevní zóny.";
+
+"cz_wrong_channel";
+"Do bitevní zóny se mùeš dostat pouze na CH %d.";
+
+"cz_wrong_level";
+"Tvá minimální úroveò musí bıt %d pro pøipojení se do bitevní zóny.";
+
+"cz_not_finished_task_kill_monsters";
+"Ještì jsi nedosáhl limitu zabitıch pøíšer (%d z %d).";
+
+"cz_cannot_leave_when_i_dead";
+"Nemùeš odejít, dokud jsi mrtvı.";
+
+"cz_already_announced_withdrawal";
+"Tvé opuštení bitevní zóny je stále aktivní.";
+
+"cz_notice_all_announced_withdrawal";
+"Hráè oznámil opuštìní bitevní zóny, zabij ho ne odejde, abys získal/a body navíc.";
+
+"cz_announced_withdrawal";
+"Pro opuštìní bitevní zóny musíš zùstat na ivu %d minuty.";
+
+"cz_cannot_find_item_reincarnation";
+"Potøebuješ %s pro oivení se bez èekání.";
+
+"cz_cannot_use_potion_err_map";
+"Tento lektvar mùeš pouít pouze v bitevní zónì.";
+
+"cz_cannot_use_potion_err_exist";
+"Efekt je stále aktivní.";
+
+"cz_chest_empty_drop";
+"V této truhle nejsou ádné poloky.";
+
+"cz_cannot_restart_here";
+"Nemùeš se restartovat. Poèkej prosím %d sekund.";
+
+"cz_cannot_restart_town";
+"Z mìsta se nemùeš restartovat. Poèkej prosím %d sekund.";
+
+"cz_last_time_kill";
+"Nezískal jsi ádné bitevní body. Poèkej %d minut pro zabití stejného hráèe znovu.";
+
+"cz_current_score";
+"Momentálnì jsi získal %d bitevních bodù. Dohromady máš %d bitevních bodù.";
+
+"cz_current_score_victim_dead";
+"Ztratil jsi polovinu svıch bitevních bodù. Ztraceno bodù: %d.";
+
+"cz_current_monsters_killed_chat";
+"<BITEVNÍ ZÓNA> Zabil jsi pøíšeru, momentální status zabitıch pøíšer: (%d z %d).";
+
+"cz_cannot_open_shop";
+"Nemùeš zde otevøít soukromı stánek.";
+
+"cz_cannot_use_marriage_ring";
+"Nemùeš zde pouívat manelskı prsten.";
+
+"cz_cannot_use_polymorph_item";
+"Nemùeš tu bıt v promìnì.";
+
+"cz_cannot_use_ride";
+"Nemùeš zde jezdit na zvíøeti.";
+
+"cz_cannot_use_chat";
+"Nemùeš pouít tuto akci.";
+
+"cz_cannot_use_whisper";
+"Nemùeš zde odesílat zprávy, ale mùeš je pøijímat.";
+
+"cz_cannot_leave_low_points";
+"Nemùeš odejít z bitevní zóny, dokud nebudeš mít víc ne %d bodù.";
+
+"cz_notice_all_announced_finished";
+"Je konec, gratulujeme všem úèastníkùm. ";
+
+"cz_notice_timezone_freebsd";
+"Aktuální èas serveru je: %s";
+
+"ds_refine_success";
+"Vylepšení draèího kamene bylo úspìšné ";
+
+"DragonSoul_msg_error_1";
+"[SYSTEM ERROR]You cannot use dragon soul refine window. ";
+
+"ds_refine_filed";
+"vylepšení draèího kamene se nezdaøilo... ";
+
+"ds_random_msg_1";
+"Opatrnì a pomalu... To jde... ";
+
+"ds_random_msg_2";
+"Bohuel jsem neuspìl... ";
+
+"you_cant_move_items_with_crafting";
+"Pokud máš otevøené okno zušlechování, tak nemùeš pohybovat s pøedmìty. ";
+
+"unequip_weapon_costume_full_inv";
+"Nemáš dostatek místa v inventáøi. ";
+
+"ds_remove_filed %s";
+"Odebrání Draèího kamene selhalo. Ovšem povedlo se ti získat následující: %s. ";
+
+"ds_has_removed";
+"Draèí kámen byl odebrán. ";
+
+"you_give_time_potion_ds";
+"Draèí kámen úspìšnì roztaven. Obdrel jsi: Elixír èasu.";
+
+"%d sec_added";
+"Bylo pøidáno %d vteøin. ";
+
+"DragonSoul_msg_error";
+"[SYSTEM ERROR]You cannot upgrade dragon soul without refine window. ";
+
+"you_cant_pick_item_if_use_quest";
+"Nemùeš sebrat pøedmìt kdy pouíváš quest. ";
+
+"this_stone_is_in_item_here";
+"Tento druh draèího kamene máš ji ve vıbavì. ";
+
+"you_cant_make_this_with_dragon_stone";
+"Draèí kámen, kterı máš ve vıbavì nemùeš roztavit. ";
+
+"action_ds_filed";
+"Selhalo roztavení. ";
+
+"this_dragon_soul_error";
+"Tento draèí kámen nemùeš nabít. ";
+
+"move_channel_blockedloc";
+"Nemùeš zde zmìnit kanál. ";
+
+"port_not_active";
+"Kanál nebyl nalezen. ";
+
+"already_connected_to_channel";
+"Ji jsi na tomto kanálu. ";
+
+"changing_channel";
+"Byl odeslán poadavek na zmìnu kanálu... ";
+
+"%d_change_channel";
+"Poèkej %d sekund. ";
+
+"duel_already_exist";
+"Souboj ji existuje.";
+
+"duel_rejected";
+"%s odmítl tvou vızvu k souboji.";
+
+"duel_victim_disconnect";
+"<Souboj> Protivník byl odhlášen/teleportován, a proto byl souboj zrušen. ";
+
+"duel_victim_disconnect_receive_money";
+"<Pvp> You and victim from duel get the bey money you bet back because duel is removed.";
+
+"duel_reward_money_win";
+"<Pvp> You won %d gold + your betMoney back, congratulations!";
+
+"duel_block_function";
+"<PvP> This function is blocked in this duel.";
+
+"duel_block_victim";
+"<PvP> %s have blocked this function in duel with him opponent!";
+
+"duel_block_victim_buff";
+"<PvP> %s have blocked in duel to receive skill buff!";
+
+"yang_drop_despwn_msg";
+"Vyhozené yangy zmizí bìhem 2 minut.";
+
+"blocked_exp_guild_offer";
+"Nemùeš pøidávat expy do cechu, pokud máš aktivovanı Jedovatı prsten. ";
+
+"you_must_have_complete_alch_quest";
+"Nejprve musíš dokonèit úkol na draèí alchymii. ";
+
+"the_acce_window_already_opened";
+"Okno šerp je ji otevøeno";
+
+"before_you_may_close_the_acce_absorption_window";
+"Nejprve zavøi absorbaèní okno.";
+
+"before_you_may_close_the_acce_combine_window";
+"Nejprve zavøi okno kombinace.";
+
+"you_cant_add_locked_items";
+"Nemùeš pøidat zamèenı pøedmìt.";
+
+"you_cant_add_binded_items";
+"Nemùeš pøidat zamèenı pøedmìt.";
+
+"you_can_combine_just_accees_of_same_grade";
+"Mùeš kombinovat jen šerpy stejné hodnoty.";
+
+"this_acce_got_already_maximum_absorption_chance";
+"Tato šerpa má maximální hodnotu absorbace.";
+
+"you_can_absorb_just_the_bonuses_from_armors_and_weapons";
+"Mùeš absorbovat jen zbranì a brnìní.";
+
+"you_dont_have_enough_Yang";
+"Nemáš dostatek yangù";
+
+"new_absorption_rate: %d%";
+"Nová hodnota absorbace je %d%";
+
+"acce_success";
+"Vylepšení šerpy se povedlo.";
+
+"acce_failed.";
+"Vylepšení šerpy se nepovedlo.";
+
+"you_cant_trade_if_using_quest";
+"Nemùeš obchodovat pokud pouíváš úkol. ";
+
+"SHOP_NAME";
+"#PLAYER_NAME# - stánek";

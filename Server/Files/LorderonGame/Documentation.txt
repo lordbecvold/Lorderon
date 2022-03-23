@@ -1,0 +1,25 @@
+///////////////////////////////////////
+//LORDERON-OFFICIAL-SERVER FILES doc.//
+///////////////////////////////////////
+1)System Requirements
+CPU: 2x XEON E7 + 
+RAM: 12 288 MB DDR3 +
+SSD: 80 GB SAS SATA3 +
+OS: FREE-BSD 12.0 64-bit
+IPv4: 1x
+Home: /root/LorderonGame
+
+
+2)Server Database
+Using: mysql56-server
+Database:connections in Project documentation.
+
+3)LIBS 
+Install Libs from project
+-Open Libs.rar
+-Put files /usr/lib & /usr/lib32
+
+4)Web
+-Web Use Apache2.4 & php7.2 all extencions (Install in Server Auto config)
+
+

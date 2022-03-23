@@ -1,0 +1,10 @@
+D:\Projects\Lorderon\Client\src\Config\Source\TWIX_Work\bin\Release\config.exe.config
+D:\Projects\Lorderon\Client\src\Config\Source\TWIX_Work\bin\Release\config.exe
+D:\Projects\Lorderon\Client\src\Config\Source\TWIX_Work\bin\Release\config.pdb
+D:\Projects\Lorderon\Client\src\Config\Source\TWIX_Work\bin\Release\config.xml
+D:\Projects\Lorderon\Client\src\Config\Source\TWIX_Work\obj\x86\Release\Configuration.Form1.resources
+D:\Projects\Lorderon\Client\src\Config\Source\TWIX_Work\obj\x86\Release\Configuration.Resources.resources
+D:\Projects\Lorderon\Client\src\Config\Source\TWIX_Work\obj\x86\Release\TWIX_Work.vbproj.GenerateResource.Cache
+D:\Projects\Lorderon\Client\src\Config\Source\TWIX_Work\obj\x86\Release\config.exe
+D:\Projects\Lorderon\Client\src\Config\Source\TWIX_Work\obj\x86\Release\config.xml
+D:\Projects\Lorderon\Client\src\Config\Source\TWIX_Work\obj\x86\Release\config.pdb

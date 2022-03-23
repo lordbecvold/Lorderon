@@ -1,0 +1,11 @@
+ScriptType	MapSetting
+
+CellScale	200
+HeightScale	0.500000
+
+ViewRadius	256
+
+MapSize	4	4
+BasePosition	512000	153600
+TextureSet	textureset\metin2_map_eisdungeon.txt
+Environment	metin2_map_eisdungeon.msenv

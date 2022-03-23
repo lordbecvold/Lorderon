@@ -1,0 +1,40 @@
+C:\Users\TWIX\Desktop\TWIX_Work\TWIX_Work\bin\Debug\Zatoky - Setting.exe.config
+C:\Users\TWIX\Desktop\TWIX_Work\TWIX_Work\bin\Debug\Zatoky - Setting.exe
+C:\Users\TWIX\Desktop\TWIX_Work\TWIX_Work\bin\Debug\Zatoky - Setting.pdb
+C:\Users\TWIX\Desktop\TWIX_Work\TWIX_Work\bin\Debug\Zatoky - Setting.xml
+C:\Users\TWIX\Desktop\TWIX_Work\TWIX_Work\obj\x86\Debug\TWIX_Work.Form1.resources
+C:\Users\TWIX\Desktop\TWIX_Work\TWIX_Work\obj\x86\Debug\TWIX_Work.Resources.resources
+C:\Users\TWIX\Desktop\TWIX_Work\TWIX_Work\obj\x86\Debug\TWIX_Work.vbproj.GenerateResource.Cache
+C:\Users\TWIX\Desktop\TWIX_Work\TWIX_Work\obj\x86\Debug\Zatoky - Setting.exe
+C:\Users\TWIX\Desktop\TWIX_Work\TWIX_Work\obj\x86\Debug\Zatoky - Setting.xml
+C:\Users\TWIX\Desktop\TWIX_Work\TWIX_Work\obj\x86\Debug\Zatoky - Setting.pdb
+C:\Users\radek\OneDrive\Desktop\Sursă\TWIX_Work\TWIX_Work\bin\Debug\Zatoky - Setting.exe.config
+C:\Users\radek\OneDrive\Desktop\Sursă\TWIX_Work\TWIX_Work\obj\x86\Debug\Zatoky - Setting.exe
+C:\Users\radek\OneDrive\Desktop\Sursă\TWIX_Work\TWIX_Work\obj\x86\Debug\Zatoky - Setting.xml
+C:\Users\radek\OneDrive\Desktop\Sursă\TWIX_Work\TWIX_Work\obj\x86\Debug\Zatoky - Setting.pdb
+C:\Users\radek\OneDrive\Desktop\Sursă\TWIX_Work\TWIX_Work\bin\Debug\Zatoky - Setting.exe
+C:\Users\radek\OneDrive\Desktop\Sursă\TWIX_Work\TWIX_Work\bin\Debug\Zatoky - Setting.pdb
+C:\Users\radek\OneDrive\Desktop\Sursă\TWIX_Work\TWIX_Work\bin\Debug\Zatoky - Setting.xml
+C:\Users\radek\OneDrive\Desktop\Sursă\TWIX_Work\TWIX_Work\obj\x86\Debug\TWIX_Work.Form1.resources
+C:\Users\radek\OneDrive\Desktop\Sursă\TWIX_Work\TWIX_Work\obj\x86\Debug\TWIX_Work.Resources.resources
+C:\Users\radek\OneDrive\Desktop\Sursă\TWIX_Work\TWIX_Work\obj\x86\Debug\TWIX_Work.vbproj.GenerateResource.Cache
+C:\Users\radek\OneDrive\Desktop\Config\Sursă\TWIX_Work\obj\x86\Debug\TWIX_Work.Form1.resources
+C:\Users\radek\OneDrive\Desktop\Config\Sursă\TWIX_Work\obj\x86\Debug\TWIX_Work.Resources.resources
+C:\Users\radek\OneDrive\Desktop\Config\Sursă\TWIX_Work\obj\x86\Debug\TWIX_Work.vbproj.GenerateResource.Cache
+C:\Users\radek\OneDrive\Desktop\Config\Sursă\TWIX_Work\bin\Debug\nastaveni.exe.config
+C:\Users\radek\OneDrive\Desktop\Config\Sursă\TWIX_Work\bin\Debug\nastaveni.exe
+C:\Users\radek\OneDrive\Desktop\Config\Sursă\TWIX_Work\bin\Debug\nastaveni.pdb
+C:\Users\radek\OneDrive\Desktop\Config\Sursă\TWIX_Work\bin\Debug\nastaveni.xml
+C:\Users\radek\OneDrive\Desktop\Config\Sursă\TWIX_Work\obj\x86\Debug\nastaveni.exe
+C:\Users\radek\OneDrive\Desktop\Config\Sursă\TWIX_Work\obj\x86\Debug\nastaveni.xml
+C:\Users\radek\OneDrive\Desktop\Config\Sursă\TWIX_Work\obj\x86\Debug\nastaveni.pdb
+Z:\ConfigSRC\Sursă\TWIX_Work\bin\Debug\nastaveni.exe.config
+Z:\ConfigSRC\Sursă\TWIX_Work\bin\Debug\nastaveni.exe
+Z:\ConfigSRC\Sursă\TWIX_Work\bin\Debug\nastaveni.pdb
+Z:\ConfigSRC\Sursă\TWIX_Work\bin\Debug\nastaveni.xml
+Z:\ConfigSRC\Sursă\TWIX_Work\obj\x86\Debug\TWIX_Work.Form1.resources
+Z:\ConfigSRC\Sursă\TWIX_Work\obj\x86\Debug\TWIX_Work.Resources.resources
+Z:\ConfigSRC\Sursă\TWIX_Work\obj\x86\Debug\TWIX_Work.vbproj.GenerateResource.Cache
+Z:\ConfigSRC\Sursă\TWIX_Work\obj\x86\Debug\nastaveni.exe
+Z:\ConfigSRC\Sursă\TWIX_Work\obj\x86\Debug\nastaveni.xml
+Z:\ConfigSRC\Sursă\TWIX_Work\obj\x86\Debug\nastaveni.pdb

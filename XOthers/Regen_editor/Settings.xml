@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MapFolder>D:\Projects\Lordron\Client\Unpacked\lord_work\maps\someya_a2</MapFolder>
+  <InformationFolder />
+  <Remember>true</Remember>
+  <LatestCoordinateZ>0</LatestCoordinateZ>
+  <LatestXVar>0</LatestXVar>
+  <LatestYVar>0</LatestYVar>
+  <LatestDirection>0</LatestDirection>
+  <LatestRespawnTime>60</LatestRespawnTime>
+  <LatestCount>1</LatestCount>
+  <LatestVnum>8008</LatestVnum>
+  <LatestCharType>3</LatestCharType>
+  <LatestSpawnChance>100</LatestSpawnChance>
+</Settings>

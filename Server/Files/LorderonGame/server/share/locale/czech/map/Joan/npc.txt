@@ -1,0 +1,19 @@
+m	569	695	0	0	0	3	1s	100	1	9003 //Obchodnice
+m	609	596	0	0	0	2	1m	100	1	9005 //Sklad
+m	579	682	0	0	0	3	1s	100	1	20016//kovar
+m	630	594	0	0	0	2	1s	100	1	9012 //teleporter
+m	907	89	0	0	0	3	1s	100	1	20009//Starec
+m	676	662	0	0	0	6	1s	100	1	9001 //obchodnice se zbranemi
+m	674	617	0	0	0	7	1s	100	1	9002 //obchodnice s vyzbroji
+m	650	593	0	0	0	8	1s	100	1	9007 //obchodnice se šperky
+m	638	640	0	0	0	9	1s	100	1	11000 //strazce navsi
+m	657	686	0	0	0	7	1m	100	1	20094	//Kadernice
+m	616	564	0	0	0	3	1m	100	1	20001	//Alchymista
+m	600	716	0	0	0	6	1m	100	1	20015	//Kopáč
+m	735	678	0	0	0	7	1m	100	1	60003	//šerpař
+m	897	798	0	0	0	7	1m	100	1	20084	//Biolog Chaegirab
+m	870	805	0	0	0	5	1m	100	1	20018	//Baek-Go
+m	675	540	0	0	0	5	1m	100	1	9009	//rybař
+m	683	726	0	0	0	6	1m	100	1	20369	//Lee Chung
+m	543	606	0	0	0	4	1m	100	1	20349	//Pacholek
+m	518	511	0	0	0	10	1s	100	1	20019	//Yang-Shin

@@ -1,0 +1,48 @@
+section						
+	item_vnum	50821				
+	apply_type	CRITICAL_PCT				
+	apply_value	8	20	20	20	20
+	apply_duration	600	600	600	600	600
+end						
+						
+section						
+	item_vnum	50822				
+	apply_type	PENETRATE_PCT				
+	apply_value	8	20	20	20	20
+	apply_duration	600	600	600	600	600
+end						
+						
+section						
+	item_vnum	50823				
+	apply_type	ATTACK_SPEED				
+	apply_value	2	8	8	8	8
+	apply_duration	600	600	600	600	600
+end						
+						
+section						
+	item_vnum	50824				
+	apply_type	RESIST_MAGIC				
+	apply_value	8	20	20	20	20
+	apply_duration	600	600	600	600	600
+end						
+
+section						
+	item_vnum	50825				
+	apply_type	ATT_BONUS				
+	apply_value	30	120	120	120	120
+	apply_duration	600	600	600	600	600
+end						
+
+section						
+	item_vnum	50826				
+	apply_type	DEF_BONUS				
+	apply_value	40	200	200	200	200
+	apply_duration	600	600	600	600	600
+end
+
+section
+	item_vnum	51002
+	apply_type	ENERGY
+	apply_value	1	10	10	10	10
+	apply_duration	1800	1800	1800	1800	1800
+end

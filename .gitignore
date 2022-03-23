@@ -1,0 +1,6 @@
+Client/Client/bin/client.bsc
+Client/Client/bin/client.map
+Client/Client/*/Debug/*
+Client/Client/*/Release/*
+Client/Client/*/Distribute/*
+Client/Client/ipch/*

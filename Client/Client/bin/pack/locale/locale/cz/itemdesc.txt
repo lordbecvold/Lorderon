@@ -1,0 +1,299 @@
+70007	Teleportaèní prsten	Mocnı prsten potøebnı k teleportaci po mapách.
+71164	Peèe Král. konì	Peèe královského konì pøivolá mocné jezdecké zvíøe slouící k pøepravì hráèe (Pøidá tvé postavì 20 rychlost pochybu).
+53006	Peèe rufuse	Peèe Pøivolá zvíøe které ti pomùe v boji (Pøidá tvé postavì 500Zb).
+70038	Pláš stateènosti	Mocnı pláš kterı pøivolá všechny monstra okolo tvé postavy.
+72726	Elixír Slunce	Elixír kterı automaticky doplòuje tvé body ivota (Obsahuje 999.999.999Zb).
+72730	Elixír Mìsíce	Elixír kterı automaticky doplòuje tvou manu (Obsahuje 999.999.999Mb).
+30201	Prsten pozastavení	Prsten umoòujicí pozastavit zisk zkušeností.
+76026	Pergamen exorcismu	Tento pregamen umoòuje pøeskoèit èas pro ètení knih.
+76034	Soustøedìné ètení	Tento pregamen navyšuje šanci pro ètení knih.
+50513	Kámen duše	Tajemnı kámen duše draèího boha slouící k zpelšení schopnosti G na úroveò P.
+50401	Kniha trojcestnı støih	Kniha schopností slouí k tréningu postavy.
+50402	Kniha víøení meèe	Kniha schopností slouí k tréningu postavy.
+50403	Kniha bojového zuøení	Kniha schopností slouí k tréningu postavy.
+50404	Kniha aury meèe	Kniha schopností slouí k tréningu postavy.
+50405	Kniha uhánìní	Kniha schopností slouí k tréningu postavy.
+50416	Kniha proraení	Kniha schopností slouí k tréningu postavy.
+50417	Kniha silnıch úderù	Kniha schopností slouí k tréningu postavy.
+50418	Kniha dupotu	Kniha schopností slouí k tréningu postavy.
+50419	Kniha silného tìla	Kniha schopností slouí k tréningu postavy.
+50420	Kniha rány meèem	Kniha schopností slouí k tréningu postavy.
+50431	Kniha léèek	Kniha schopností slouí k tréningu postavy.
+50432	Kniha bleskového útoku	Kniha schopností slouí k tréningu postavy.
+50433	Kniha víøení dıkou	Kniha schopností slouí k tréningu postavy.
+50434	Kniha maskování	Kniha schopností slouí k tréningu postavy.
+50435	Kniha jedovatıch oblakù	Kniha schopností slouí k tréningu postavy.
+50446	Kniha opakované støely	Kniha schopností slouí k tréningu postavy.
+50447	Kniha deštì šípù	Kniha schopností slouí k tréningu postavy.
+50448	Kniha ohnivého šípu	Kniha schopností slouí k tréningu postavy.
+50449	Kniha našlap. polehouèku	Kniha schopností slouí k tréningu postavy.
+50450	Kniha jedovatého šípu	Kniha schopností slouí k tréningu postavy.
+50461	Kniha úderù prstem	Kniha schopností slouí k tréningu postavy.
+50462	Kniha víøení drakù	Kniha schopností slouí k tréningu postavy.
+50463	Kniha zaèarované èepeli	Kniha schopností slouí k tréningu postavy.
+50464	Kniha strachu	Kniha schopností slouí k tréningu postavy.
+50465	Kniha zaèar. brnìní	Kniha schopností slouí k tréningu postavy.
+50466	Kniha zrušení kouzla	Kniha schopností slouí k tréningu postavy.
+50476	Kniha temné rány	Kniha schopností slouí k tréningu postavy.
+50477	Kniha ohnivé rány	Kniha schopností slouí k tréningu postavy.
+50478	Kniha plamene ducha	Kniha schopností slouí k tréningu postavy.
+50479	Kniha temné ochrany	Kniha schopností slouí k tréningu postavy.
+50480	Kniha rány ducha	Kniha schopností slouí k tréningu postavy.
+50481	Kniha temného kamene	Kniha schopností slouí k tréningu postavy.
+50491	Kniha lét. talismanu	Kniha schopností slouí k tréningu postavy.
+50492	Kniha støílení na draky	Kniha schopností slouí k tréningu postavy.
+50493	Kniha draèího øevotu	Kniha schopností slouí k tréningu postavy.
+50494	Kniha poehnání	Kniha schopností slouí k tréningu postavy.
+50495	Kniha odráení	Kniha schopností slouí k tréningu postavy.
+50496	Kniha pomoci draka	Kniha schopností slouí k tréningu postavy.
+50506	Kniha bleskovıch vrhù	Kniha schopností slouí k tréningu postavy.
+50507	Kniha vyvolávání bleskù	Kniha schopností slouí k tréningu postavy.
+50508	Kniha bleskového drápu	Kniha schopností slouí k tréningu postavy.
+50509	Kniha léèení	Kniha schopností slouí k tréningu postavy.
+50510	Kniha rychlosti	Kniha schopností slouí k tréningu postavy.
+50511	Kniha útoku	Kniha schopností slouí k tréningu postavy.
+54704	Truhla Vzdìlání	Truhla obsahuje náhodné knihy schopností.
+39047	Truhla Tìlesného boje	Obsahuje náhodné knihy schopností váleèníka na tìlo.
+39048	Truhla Mentálního boje	Obsahuje náhodné knihy schopností váleèníka mentálního boje.
+39049	Truhla Boje na blízko	Obsahuje náhodné knihy schopností pro ninju blízkého boje.
+39050	Truhla Boje na dálku	Obsahuje náhodné knihy schopností pro ninju dalkového boje.
+39051	Truhla Magickıch zbraní	Obsahuje náhodné knihy schopností pro suru magické zbranì.
+39052	Truhla Èerné magie	Obsahuje náhodné knihy schopností pro suru èerné magie.
+39053	Truhla Draèí moci	Obsahuje náhodné knihy schopností pro šamana draèí moci.
+39054	Truhla Léèení	Obsahuje náhodné knihy schopností pro šamana léèby.
+50132	Truhla posilnìní	Truhla obsahuje náhodnı pøedmìt kterı posílí tvou postavu.
+71027	ivot draèího boha	Zvıší tvé postavì body ivota o 20% na 30 minut.
+71029	Inteligence draèího boha	Zvıší tvé postavì inteligenci o 20% na 30 minut.
+71028	Útok draèího boha	Zvıší tvé postavì útok o 20% na 30 minut.
+71030	Obrana draèího boha	Zvıší tvé postavì útok o 20% na 30 minut.
+71032	Pergamen draka	Tajemnı pergamen slouící k vylepšení pøedmìtu bez rizika znièení pøedmìtu a pøidá ti 10% šankci na zlepšení pøedmìtu.
+25041	Magickı kámen	Kámen draèího boha slouící k vylepšení pøedmìtù bez rizika znièení pøedmìtu a sníení jeho úrovnì.
+25042	Rituální kámen	Tajemnı tøpytivı kámen, kterı poskytuje velkou šanci na úspìch pøi vylepšování pøedmìtu.
+71002	Reset vlastností tìla	Pomocí tohoto pøedmìtu mùeš resetovat své staty VIT,INT,SIL,POH.
+50200	Mìšec	Pomocí tohohle mìšce je moné zaloit soukromı offline stánek.
+25040	Poehnanı pergamen	Odstraní riziko, e se pøedmìt pøi zlepšování rozbije. V tomto pøípadì se sníí jeho kvalita o 1.
+71084	Zaèarovat pøedmìt	Odstraní bonusy jednoho z tvıch pøedmìtù a pøidá nové. S pøedmìtem lze obchodovat.
+71085	Zesílit pøedmìt	Pøidá jednomu z tvıch pøedmìtù okamitì 5 bonusy.
+71048	Kouzlo zmìny pohlaví Pomocí kouzla zmìny mùeš své postavì zmìnit pohlaví.
+71054	Tinktura království	Umoòuje odejít do exilu v jiném království.
+50252	Cor Draconis	Obsahuje náhodnı surovı draèí kámen.
+30270	Úlomek Draèího kamene	Mocnı kus draèího kamene kterı vzniká pøi neúspìšném vytáhnutí draèího kamene.
+100300	Zelená draèí fazole	Mocná fazole potøebná pro vylepšování úrovnì draèího kamene.
+100400	Modrá draèí fazole	Mocná fazole potøebná pro vylepšování úrovnì draèího kamene.
+100500	Rùová draèí fazole	Mocná fazole potøebná pro vylepšování úrovnì draèího kamene.
+38055	Truhla Vzestupu	Obsahuje zbranì od úrovnì 30.
+30021	Kus drahokamu	Tento kus drahokamu je potøebnı pro vylepšování pøedmìtù.
+30011	Klubko	Tento kus drahokamu je potøebnı pro vylepšování pøedmìtù.
+30005	Èást rozbitého brnìní	Tento kus drahokamu je potøebnı pro vylepšování pøedmìtù.
+38052	Truhla kamenù	Truhla obsahuje náhodnı kámen kterı vylepší tvou vıbavu.
+80003	Prut støíbra(10.000Yang)	Prut mùeš prodat obchodnici nebo rozklikat.
+80004	Prut støíbra(30.000Yang)	Prut mùeš prodat obchodnici nebo rozklikat.
+80005	Prut zlata(100.000Yang)	Prut mùeš prodat obchodnici nebo rozklikat.
+80006	Prut zlata(1 mil. Yang)	Prut mùeš prodat obchodnici nebo rozklikat.
+80007	Prut zlata(2 mil. Yang)	Prut mùeš prodat obchodnici nebo rozklikat.
+50300	Kniha Schopností	Kniha potøebná ke ètení schopností.
+50621	Diamant	Pomocí diamantu mùeš pøidat úchyt do svého pøedmìtu pro pøidání tavby.
+50622	idk	Pokud je tento kámen v pøedmìtu zvyšuje jeho sílu
+50623	idk	Pokud je tento kámen v pøedmìtu zvyšuje jeho sílu
+50624	idk	Pokud je tento kámen v pøedmìtu zvyšuje jeho sílu
+50625	idk	Pokud je tento kámen v pøedmìtu zvyšuje jeho sílu
+50626	idk	Pokud je tento kámen v pøedmìtu zvyšuje jeho sílu
+50627	idk	Pokud je tento kámen v pøedmìtu zvyšuje jeho sílu
+50628	idk	Pokud je tento kámen v pøedmìtu zvyšuje jeho sílu
+50629	idk	Pokud je tento kámen v pøedmìtu zvyšuje jeho sílu
+50630	idk	Pokud je tento kámen v pøedmìtu zvyšuje jeho sílu
+50631	idk	Pokud je tento kámen v pøedmìtu zvyšuje jeho sílu
+50632	idk	Pokud je tento kámen v pøedmìtu zvyšuje jeho sílu
+50633	idk	Pokud je tento kámen v pøedmìtu zvyšuje jeho sílu
+50634	idk	Pokud je tento kámen v pøedmìtu zvyšuje jeho sílu
+50635	idk	Pokud je tento kámen v pøedmìtu zvyšuje jeho sílu
+50636	idk	Pokud je tento kámen v pøedmìtu zvyšuje jeho sílu
+50637	idk	Pokud je tento kámen v pøedmìtu zvyšuje jeho sílu
+50638	idk	Pokud je tento kámen v pøedmìtu zvyšuje jeho sílu
+50639	idk	Pokud je tento kámen v pøedmìtu zvyšuje jeho sílu
+51002	Energetickı krystal	Pøidává bonusy tvé vıbavy
+27999	Taška na rosy	Obsahuje náhodnou rosu.
+39033	Svitek opravy	Odebere kameny z pøedmìtu.
+39027	Pøíruèka kamenù	Odebere odštìpky kamene ducha z pøedmìtu.
+100000	Elixír èasu (M)	Prodluuje èas draèích kamenù.
+100001	Elixír èasu (S)	Prodluuje èas draèích kamenù.
+100002	Elixír èasu (V)	Prodluuje èas draèích kamenù.
+50074	Truhla bossù (1)	Truhla slabého bosse obsahuje tajemné pøedmìty.	
+72703	Náušnice z tygøí kosti	Pøidají tvé postavì 200 hodnoty útoku.
+72704	Náušnice z draèí kosti	Pøidají tvé postavì 200 obrany.
+30220	Kámen duší Jinunggisù	Kámen umoòujicí dokonèit biologickı úkol úrovnì 30.
+30006	idka	Potøebnı materiál pro biologùv vızkum.
+30221	Kámen duše chrámu	Kámen umoòujicí dokonèit biologickı úkol úrovnì 40.
+30222	Kámen duše Sagysù	Kámen umoòujicí dokonèit biologickı úkol úrovnì 50.
+30047	idka	Potøebnı materiál pro biologùv vızkum.
+30015	idka	Potøebnı materiál pro biologùv vızkum.
+30039	Kus látky	Materiál pro vylepšování pøedmìtù.
+30051	Neznámı talisman	Materiál pro vylepšování pøedmìtù.
+30008	Slabikáø ezoteriky	Materiál pro vylepšování pøedmìtù.
+85001	idk	Tato šerpa bere 1 % bonusù ze zbranì nebo brnìní, které pouiješ pro absorpci.
+85002	idk	Tato šerpa bere 5 % bonusù ze zbranì nebo brnìní, které pouiješ pro absorpci.
+85003	idk	Tato šerpa bere 10 % bonusù ze zbranì nebo brnìní, které pouiješ pro absorpci.
+85004	idk	Tato šerpa bere 11-25 % bonusù ze zbranì nebo brnìní, které pouiješ pro absorpci.
+85005	idk	Tato šerpa bere 1 % bonusù ze zbranì nebo brnìní, které pouiješ pro absorpci.
+85006	idk	Tato šerpa bere 5 % bonusù ze zbranì nebo brnìní, které pouiješ pro absorpci.
+85007	idk	Tato šerpa bere 10 % bonusù ze zbranì nebo brnìní, které pouiješ pro absorpci.
+85008	idk	Tato šerpa bere 11-25 % bonusù ze zbranì nebo brnìní, které pouiješ pro absorpci.
+85011	idk	Tato šerpa bere 1 % bonusù ze zbranì nebo brnìní, které pouiješ pro absorpci.
+85012	idk	Tato šerpa bere 5 % bonusù ze zbranì nebo brnìní, které pouiješ pro absorpci.
+85013	idk	Tato šerpa bere 10 % bonusù ze zbranì nebo brnìní, které pouiješ pro absorpci.
+85014	idk	Tato šerpa bere 11-25 % bonusù ze zbranì nebo brnìní, které pouiješ pro absorpci.
+85015	idk	Tato šerpa bere 1 % bonusù ze zbranì nebo brnìní, které pouiješ pro absorpci.
+85016	idk	Tato šerpa bere 5 % bonusù ze zbranì nebo brnìní, které pouiješ pro absorpci.
+85017	idk	Tato šerpa bere 10 % bonusù ze zbranì nebo brnìní, které pouiješ pro absorpci.
+85018	idk	Tato šerpa bere 11-25 % bonusù ze zbranì nebo brnìní, které pouiješ pro absorpci.
+164000	Legendární draèí onyx	Tento kámen mùeš pouívat od úrovnì 50.
+164100	Legendární draèí onyx	Tento kámen mùeš pouívat od úrovnì 60.
+164200	Legendární draèí onyx	Tento kámen mùeš pouívat od úrovnì 70.
+164300	Legendární draèí onyx	Tento kámen mùeš pouívat od úrovnì 80.
+164400	Legendární draèí onyx	Tento kámen mùeš pouívat od úrovnì 90.
+154000	Legendární draèí granát	Tento kámen mùeš pouívat od úrovnì 50.
+154100	Legendární draèí granát	Tento kámen mùeš pouívat od úrovnì 60.
+154200	Legendární draèí granát	Tento kámen mùeš pouívat od úrovnì 70.
+154300	Legendární draèí granát	Tento kámen mùeš pouívat od úrovnì 80.
+154400	Legendární draèí granát	Tento kámen mùeš pouívat od úrovnì 90.
+144000	Legendární draèí safír	Tento kámen mùeš pouívat od úrovnì 50.
+144100	Legendární draèí safír	Tento kámen mùeš pouívat od úrovnì 60.
+144200	Legendární draèí safír	Tento kámen mùeš pouívat od úrovnì 70.
+144300	Legendární draèí safír	Tento kámen mùeš pouívat od úrovnì 80.
+144400	Legendární draèí safír	Tento kámen mùeš pouívat od úrovnì 90.
+134000	Legendární draèí nefrit	Tento kámen mùeš pouívat od úrovnì 50.
+134100	Legendární draèí nefrit	Tento kámen mùeš pouívat od úrovnì 60.
+134200	Legendární draèí nefrit	Tento kámen mùeš pouívat od úrovnì 70.
+134300	Legendární draèí nefrit	Tento kámen mùeš pouívat od úrovnì 80.
+134400	Legendární draèí nefrit	Tento kámen mùeš pouívat od úrovnì 90.
+124000	Legendární draèí rubín	Tento kámen mùeš pouívat od úrovnì 50.
+124100	Legendární draèí rubín	Tento kámen mùeš pouívat od úrovnì 60.
+124200	Legendární draèí rubín	Tento kámen mùeš pouívat od úrovnì 70.
+124300	Legendární draèí rubín	Tento kámen mùeš pouívat od úrovnì 80.
+124400	Legendární draèí rubín	Tento kámen mùeš pouívat od úrovnì 90.
+114000	Legendární draèí diamant	Tento kámen mùeš pouívat od úrovnì 50.
+114100	Legendární draèí diamant	Tento kámen mùeš pouívat od úrovnì 60.
+114200	Legendární draèí diamant	Tento kámen mùeš pouívat od úrovnì 70.
+114300	Legendární draèí diamant	Tento kámen mùeš pouívat od úrovnì 80.
+114400	Legendární draèí diamant	Tento kámen mùeš pouívat od úrovnì 90.
+30009	Neznámı lék	Materiál potøebnı pro vylepšování pøedmìtù.
+30012	Láhev vína	Materiál potøebnı pro vylepšování pøedmìtù.
+30032	Èerná uniforma	Materiál potøebnı pro vylepšování pøedmìtù.
+27987	Mušle	Obsahuje vzácné perly nebo kousky kamene.
+27801	Èerv	velice úèinná návnada na ryby.
+27800	Pasta	Návnada na ryby
+27610	Koule na ryby Mocná koule na ryby ti ukáe co máš právì na háèku.
+27600	Táborák	Pøi pouití táboráku mùeš péct ryby na ohni.
+27990	Kousek kamene	Pøedmìt potøebnı pro vylepšování kamenù.
+50050	Koòská medaile	Medaile slouící k vylepšování Jezdeckıch zvíøat.
+71125	Peèe div. boj. kance	Tato peèe ti pøidá 10% Síly proti monstrùm.
+71128	Peèe bojového lva	Tato Peèe ti pøidá 15% Síly proti monstrùm.
+53008	Peèe Porkyho	Tato peèe ti pøidá 1.000Zb a 5% Síly proti monstrùm, Mùeš jí pouít od úrovnì 35.
+50067	Svitek vıvoje	Svitek potøebnı pro vylepšení mazlíèka.
+53010	Peèe Leonidase	Tato peèe ti pøidá 1.500Zb a 10% Síly proti monstrùm, Mùeš jí pouít od úrovnì 55.
+30060	abí jazyk	Materiál potøebnı k vylepšování pøedmìtù.
+30052	Vlajka	Materiál potøebnı k vylepšování pøedmìtù.
+30063	Lék na ple	Materiál potøebnı k vylepšování pøedmìtù.
+50070	Truhla støedního bosse	Tajemná benda støednì tìkého bosse obsahuje náhodnı pøedmìt.
+50135	Truhla perel	Truhla obsahuje jednu náhodnou perlu.
+27992	Bílá perla	Tajemná perla je cennı dar oceánu.
+27993	Modrá perla	Tajemná perla je cennı dar oceánu.
+27994	Krvavì rudá perla	Tajemná perla je cennı dar oceánu.
+50136	Truhla Povznesení	truhla ukrıvající pøedmìty pro vylepšování 
+30500	Nù vykládanı rubíny	Materiál pro vylepšení pøedmìtù.
+30501	Zlatá svorka	Materiál pro vylepšení pøedmìtù.
+30502	Rubínová dekorace	Materiál pro vylepšení pøedmìtù.
+30503	Nù vykládanı ametysty	Materiál pro vylepšení pøedmìtù.
+30504	Støíbrná svorka	Materiál pro vylepšení pøedmìtù.
+30505	Smaragdová dekorace	Materiál pro vylepšení pøedmìtù.
+39007	Pøíruèka o kování	Pøidá ti 15% šance na vylepšení pøedmìtu.
+50079	Truhla Vùdce	Truhla obsahuje náhodné pøedmìty.
+50080	Truhla Vìe	Truhla obsahuje náhodné pøedmìty.
+50081	Truhla Zubaté s kosou	Truhla obsahuje náhodné pøedmìty.
+50082	Azraelova Truhla	Truhla obsahuje náhodné pøedmìty.
+30224	Kámen duše Gyimoksù	Kámen potøebnı pro dokonèení biologického vızkum úrovnì 70.
+30223	Kámen duše Aurtumryusù	Kámen potøebnı pro dokonèení biologického vızkum úrovnì 60.
+30050	idka	Potøebnı materiál pro biologùv vızkum.
+30165	idka	Potøebnı materiál pro biologùv vızkum.
+53014	Peèe Mini-Exekutora	Tato peèe ti pøidá 2.000Zb a 15% sílu proti pøíšerám, Mùeš ho pouít od úrovnì 75.
+71222	Peèe Bílého lva	Tato Peèe ti pøidá 20% Síly proti monstrùm.
+50109	idk	Truhla za dokonèení biologova vızkumu.
+50110	idk	Truhla za dokonèení biologova vızkumu.
+50111	idk	Truhla za dokonèení biologova vızkumu.
+50112	idk	Truhla za dokonèení biologova vızkumu.
+50113	idk	Truhla za dokonèení biologova vızkumu.
+50114	idk	Truhla za dokonèení biologova vızkumu.
+50115	idk	Truhla za dokonèení biologova vızkumu.
+71107	idk	Truhla za dokonèení biologova vızkumu.
+71105	idk	Truhla za dokonèení biologova vızkumu.
+30166	idka	Potøebnı materiál pro biologùv vızkum.
+30167	idka	Potøebnı materiál pro biologùv vızkum.
+30168	idka	Potøebnı materiál pro biologùv vızkum.
+30251	idka	Potøebnı materiál pro biologùv vızkum.
+30252	idka	Potøebnı materiál pro biologùv vızkum.
+71145	Amulet vìèné lásky	Amulet pøidá tvé postavì 10% útok proti monstrùm a 2.000Zb.
+30195	Køemennı písek	Podstatnı materiál pro vylepšení zbroje modré oceli nebo legendárních zbraní.
+30194	Køemennı písek	Podstatnı materiál pro vylepšení zbroje modré oceli nebo legendárních zbraní.
+30193	Køemennı písek	Podstatnı materiál pro vylepšení zbroje modré oceli nebo legendárních zbraní.
+30192	Køemennı písek	Podstatnı materiál pro vylepšení zbroje modré oceli nebo legendárních zbraní.
+30196	Køemennı písek	Podstatnı materiál pro vylepšení zbroje modré oceli nebo legendárních zbraní.
+30197	Køemennı písek	Podstatnı materiál pro vylepšení zbroje modré oceli nebo legendárních zbraní.
+30198	Køemennı písek	Podstatnı materiál pro vylepšení zbroje modré oceli nebo legendárních zbraní.
+30199	Køemennı písek	Podstatnı materiál pro vylepšení zbroje modré oceli nebo legendárních zbraní.
+30204	Køemennı písek	Podstatnı materiál pro vylepšení zbroje modré oceli nebo legendárních zbraní.
+51001	Fragment energie	Fragment slouící k vylepšení pøedmìtu na legendární úrovìn.
+28430	idk Tento kámen mùeš vylepšit u kováøe na legendární.
+28431	idk Tento kámen mùeš vylepšit u kováøe na legendární.
+28432	idk Tento kámen mùeš vylepšit u kováøe na legendární.
+28433	idk Tento kámen mùeš vylepšit u kováøe na legendární.
+28434	idk Tento kámen mùeš vylepšit u kováøe na legendární.
+28435	idk Tento kámen mùeš vylepšit u kováøe na legendární.
+28436	idk Tento kámen mùeš vylepšit u kováøe na legendární.
+28437	idk Tento kámen mùeš vylepšit u kováøe na legendární.
+28438	idk Tento kámen mùeš vylepšit u kováøe na legendární.
+28439	idk Tento kámen mùeš vylepšit u kováøe na legendární.
+28440	idk Tento kámen mùeš vylepšit u kováøe na legendární.
+28441	idk Tento kámen mùeš vylepšit u kováøe na legendární.
+28442	idk Tento kámen mùeš vylepšit u kováøe na legendární.
+28443	idk Tento kámen mùeš vylepšit u kováøe na legendární.
+55702	Peèe mini pavouka	Tato peèe ti pøidá 2.500Zb a 20% sílu proti pøíšerám, Mùeš ho pouít od úrovnì 90.
+71224	Peèe jednoroce	Tato Peèe ti pøidá 25% Síly proti monstrùm.
+71123	Draèí šupiny	Materiál pro vylepšování pøedmìtù.
+71129	Draèí èelist	Materiál pro vylepšování pøedmìtù.
+30518	Zlatá pøíze	Materiál pro vylepšování pøedmìtù.
+30519	Zlatá pøezka	Materiál pro vylepšování pøedmìtù.
+30521	Èást prstenu	Materiál pro vylepšování pøedmìtù.
+30522	Èlánek øetìzu	Materiál pro vylepšování pøedmìtù.
+30523	Èást klenotu	Materiál pro vylepšování pøedmìtù.
+54700	Truhla Beran-Setaou	Obsahuje vzácné pøedmìty.
+30524	Ohnivı kámen Materiál pro vylepšování pøedmìtù.
+30621	Šupina èerveného draka	Materiál pro vylepšování pøedmìtù.
+30620	Roh èerveného draka	Materiál pro vylepšování pøedmìtù.
+30614	Èerné barvivo	Materiál pro vylepšování pøedmìtù.
+30525	Ledovı kámen	Materiál pro vylepšování pøedmìtù.
+50254	Truhla temnoty	Obsahuje tajemné pøedmìty.
+55703	Mini Razador	Tato peèe ti pøidá 3.000Zb a 25% sílu proti pøíšerám, Mùeš ho pouít od úrovnì 105.
+71225	Peèe Vznešeného konì	Tato Peèe ti pøidá 30% Síly proti monstrùm.
+30616	Oxid titanièitı	Materiál pro vylepšování pøedmìtù.
+30615	Bílé barvivo	Materiál pro vylepšování pøedmìtù.
+30617	Ornament	Materiál pro vylepšování pøedmìtù.
+30618	Kámen Mìsíce	Materiál pro vylepšování pøedmìtù.
+71143	GM-Amulet Pøidává	1000% Monstra a 150k ZB.
+71189	Enchant Item+	Removes the bonuses from one of your items and adds new ones. The new bonuses will be showed and you can choose to take them or not.
+55001	Zaèarovanı lutı lektvar	Tento lektvar slouí k aktivaci titulu.
+55002	Zaèarovanı rùovı lektvar	Tento lektvar slouí k aktivaci titulu.
+55003	Zaèarovanı bílí lektvar	Tento lektvar slouí k aktivaci titulu.
+18900	Kámen Rudého plamene	Tento se vkládá do opaskù.
+
+
+
+
+
+
+
+
+
+
+
+
+

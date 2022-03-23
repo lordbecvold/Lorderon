@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+nastaveni
+</name>
+</assembly>
+<members>
+<member name="P:TWIX_Work.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:TWIX_Work.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:TWIX_Work.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:TWIX_Work.ClassDisplay.#ctor(System.String)">
+	<summary>Sub New der ClassDisplay</summary>
+	<param name="devName">DeviceName des gewählten Bildschirmes.</param>
+</member><member name="M:TWIX_Work.ClassDisplay.ChangeRes(System.Drawing.Size,System.Int32)">
+	<summary>Stellt die Bildschrimauflösung um.</summary>
+	<param name="res">Neue Auflösung als Size</param>
+	<param name="colorDept">Neue Farbtiefe als Integer</param>
+	<returns>True wenn die Umstellung erfolgreich war sonst False</returns>
+</member>
+</members>
+</doc>

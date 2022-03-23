@@ -1,0 +1,25 @@
+D:\Projects\Lorderon\Client\Patcher & Lister\Patcher\bin\Debug\Lorderon.exe
+D:\Projects\Lorderon\Client\Patcher & Lister\Patcher\bin\Debug\Lorderon.pdb
+D:\Projects\Lorderon\Client\Patcher & Lister\Patcher\obj\Debug\Sanchez.Patcher.csprojResolveAssemblyReference.cache
+D:\Projects\Lorderon\Client\Patcher & Lister\Patcher\obj\Debug\Sanchez.Patcher.pForm.resources
+D:\Projects\Lorderon\Client\Patcher & Lister\Patcher\obj\Debug\Sanchez.Patcher.Properties.Resources.resources
+D:\Projects\Lorderon\Client\Patcher & Lister\Patcher\obj\Debug\Sanchez.Patcher.csproj.GenerateResource.Cache
+D:\Projects\Lorderon\Client\Patcher & Lister\Patcher\obj\Debug\Lorderon.exe
+D:\Projects\Lorderon\Client\Patcher & Lister\Patcher\obj\Debug\Lorderon.pdb
+D:\Projects\Lorderon\Client\src\Patcher\obj\Debug\Lorderon.exe
+D:\Projects\Lorderon\Client\src\Patcher\obj\Debug\Lorderon.pdb
+D:\Projects\Lorderon\Client\src\Patcher\bin\Debug\Lorderon.exe
+D:\Projects\Lorderon\Client\src\Patcher\bin\Debug\Lorderon.pdb
+D:\Projects\Lorderon\Client\src\Patcher\obj\Debug\Sanchez.Patcher.csprojResolveAssemblyReference.cache
+D:\Projects\Lorderon\Client\src\Patcher\obj\Debug\Sanchez.Patcher.pForm.resources
+D:\Projects\Lorderon\Client\src\Patcher\obj\Debug\Sanchez.Patcher.Properties.Resources.resources
+D:\Projects\Lorderon\Client\src\Patcher\obj\Debug\Sanchez.Patcher.csproj.GenerateResource.Cache
+D:\Projects\Lorderon\Others\Patcher\obj\Debug\Lorderon.exe
+D:\Projects\Lorderon\Others\Patcher\obj\Debug\Lorderon.pdb
+D:\Projects\Lorderon\Others\Patcher\obj\Debug\Sanchez.Patcher.pForm.resources
+D:\Projects\Lorderon\Others\Patcher\obj\Debug\Sanchez.Patcher.csproj.GenerateResource.Cache
+D:\Projects\Lorderon\Others\Patcher\bin\Debug\Lorderon.exe
+D:\Projects\Lorderon\Others\Patcher\bin\Debug\Lorderon.pdb
+D:\Projects\Lorderon\Others\Patcher\obj\Debug\Sanchez.Patcher.csprojAssemblyReference.cache
+D:\Projects\Lorderon\Others\Patcher\obj\Debug\Sanchez.Patcher.Properties.Resources.resources
+D:\Projects\Lorderon\Others\Patcher\obj\Debug\Sanchez.Patcher.csproj.CoreCompileInputs.cache

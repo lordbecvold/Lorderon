@@ -1,0 +1,11 @@
+m	483	386	0	0	0	8	1m	100     1	9003	//Obchodnice
+m	491	399	0	0	0	8	1m	100     1	20016	//Kovář
+m	484	439	0	0	0	8	1m	100     1	9012	//Teleporter
+m	442	412	0	0	0	0	1m	100     1	11004	//Strazce návsi
+m	394	401	0	0	0	3	1m	100     1	9005	//Skladnik
+m	460	467	0	0	0	5	1m	100     1	9001	//Obchodník se zbraněmi 
+m	447	465	0	0	0	5	1m	100     1	9007	//Obchdník s výzbrojí
+m	435	467	0	0	0	5	1m	100     1	9002	//Obchodník se šperky
+m	137	897	0	0	0	0	1m	50	1	 9012	//Stařec
+m	914	907	0	0	0	0	1m	100     1	 9012	//Stařec
+m	901	151	0	0	0	0	1m	100     1	 9012	//Stařec

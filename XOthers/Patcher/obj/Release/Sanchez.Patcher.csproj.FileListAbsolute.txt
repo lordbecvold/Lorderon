@@ -1,0 +1,16 @@
+D:\Projects\Lorderon\Client\Patcher & Lister\Sanchez.Patcher\obj\Release\Sanchez.Patcher.pForm.resources
+D:\Projects\Lorderon\Client\Patcher & Lister\Sanchez.Patcher\obj\Release\Sanchez.Patcher.Properties.Resources.resources
+D:\Projects\Lorderon\Client\Patcher & Lister\Sanchez.Patcher\obj\Release\Sanchez.Patcher.csproj.GenerateResource.Cache
+D:\Projects\Lorderon\Client\Patcher & Lister\Sanchez.Patcher\obj\Release\Sanchez.Patcher.csprojResolveAssemblyReference.cache
+D:\Projects\Lorderon\Client\Patcher & Lister\Sanchez.Patcher\bin\Release\Lorderon.exe
+D:\Projects\Lorderon\Client\Patcher & Lister\Sanchez.Patcher\bin\Release\Lorderon.pdb
+D:\Projects\Lorderon\Client\Patcher & Lister\Sanchez.Patcher\obj\Release\Lorderon.exe
+D:\Projects\Lorderon\Client\Patcher & Lister\Sanchez.Patcher\obj\Release\Lorderon.pdb
+D:\Projects\Lorderon\Others\Patcher\obj\Release\Sanchez.Patcher.csprojResolveAssemblyReference.cache
+D:\Projects\Lorderon\Others\Patcher\obj\Release\Sanchez.Patcher.pForm.resources
+D:\Projects\Lorderon\Others\Patcher\obj\Release\Sanchez.Patcher.csproj.GenerateResource.Cache
+D:\Projects\Lorderon\Others\Patcher\obj\Release\Lorderon.exe
+D:\Projects\Lorderon\Others\Patcher\obj\Release\Lorderon.pdb
+D:\Projects\Lorderon\Others\Patcher\bin\Release\Lorderon.exe
+D:\Projects\Lorderon\Others\Patcher\bin\Release\Lorderon.pdb
+D:\Projects\Lorderon\Others\Patcher\obj\Release\Sanchez.Patcher.Properties.Resources.resources

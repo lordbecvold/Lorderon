@@ -1,0 +1,71 @@
+PACK
+*
+LORDERON_PACK
+d:/ymir work/bin/
+client_data
+d:/ymir work/effect/
+client_data
+d:/ymir work/tree/
+client_data
+d:/ymir work/guild/
+client_data
+d:/ymir work/models/
+client_data
+d:/ymir work/special/
+client_data
+d:/ymir work/environment/
+client_data
+d:/ymir work/ui/
+client_data
+icon/
+icon
+d:/ymir work/item/
+item
+locale/cz/
+locale
+maps/
+maps
+d:/ymir work/monster/
+monster
+d:/ymir work/monster2/
+monster
+d:/ymir work/npc2/
+npc
+d:/ymir work/npc/
+npc
+d:/ymir work/pc/
+pc
+d:/ymir work/pc2/
+pc2
+property/
+property
+season1/
+season1
+season2/
+season2
+sound/ambience/
+sound
+sound/common/
+sound
+sound/effect/
+sound
+sound/monster/
+sound
+sound/npc/
+sound
+sound/pc/
+sound
+sound/ui/
+sound
+sound/monster2/
+sound
+sound/pc2/
+sound
+d:/ymir work/terrainmaps/
+terrainmaps
+textureset/
+textureset
+uiscript/
+uiscript
+d:/ymir work/zone/
+zone
