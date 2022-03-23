@@ -66,10 +66,10 @@
 - ANNOUNCEMENT_LEVELUP
 - NEW_EXCHANGE_WINDOW
 
-<p align="center"><a href="http://becvar.xyz/becwork" target="_blank"><img src="https://github.com/lordbecvold/Becwork/blob/main/XOthers/Resources/img_1.png" width="200"></a></p>
+<p align="center"><a href="http://becvar.xyz/becwork" target="_blank"><img src="https://github.com/lordbecvold/Lorderon/blob/main/XOthers/Resources/img_1.png" width="200"></a></p>
 
-<p align="center"><a href="http://becvar.xyz/becwork" target="_blank"><img src="https://github.com/lordbecvold/Becwork/blob/main/XOthers/Resources/img_2.png" width="200"></a></p>
+<p align="center"><a href="http://becvar.xyz/becwork" target="_blank"><img src="https://github.com/lordbecvold/Lorderon/blob/main/XOthers/Resources/img_2.png" width="200"></a></p>
 
-<p align="center"><a href="http://becvar.xyz/becwork" target="_blank"><img src="https://github.com/lordbecvold/Becwork/blob/main/XOthers/Resources/img_3.png" width="200"></a></p>
+<p align="center"><a href="http://becvar.xyz/becwork" target="_blank"><img src="https://github.com/lordbecvold/Lorderon/blob/main/XOthers/Resources/img_3.png" width="200"></a></p>
 
 # BACKUP 27.05.2020 - 16:55   --    Revised 28.11.2021 - 17:00
